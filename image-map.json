@@ -35,5 +35,12 @@
   "NS-CH-KITSUNEV2-G": "Newskill/Chairs/KITSUNE V2/GRAY",
   "NS-CH-KITSUNEV2-P": "Newskill/Chairs/KITSUNE V2/PINK",
   "NS-CH-KITSUNEV2-M": "Newskill/Chairs/KITSUNE V2/PURPLE",
-  "NS-CH-KITSUNEV2-R": "Newskill/Chairs/KITSUNE V2/RED"
+  "NS-CH-KITSUNEV2-R": "Newskill/Chairs/KITSUNE V2/RED",
+  "NS-CH-NEITH-ZE-BLACK-BLUE": "Newskill/Chairs/NEITH ZEPHYR/BLUE",
+  "NS-CH-NEITH-ZE-BLACK-GRAY": "Newskill/Chairs/NEITH ZEPHYR/GREY",
+  "NS-CH-NEITH-ZE-WHITE-PINK": "Newskill/Chairs/NEITH ZEPHYR/PINK",
+  "NS-CH-NEITH-ZE-BLACK-RED": "Newskill/Chairs/NEITH ZEPHYR/RED",
+  "NS-CH-NUE-BB": "Newskill/Chairs/NUE/BLACK",
+  "NS-CH-NUE-BBL": "Newskill/Chairs/NUE/BLUE",
+  "NS-CH-NUE-GG": "Newskill/Chairs/NUE/GREY"
 }

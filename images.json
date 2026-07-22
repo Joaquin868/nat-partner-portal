@@ -2,7 +2,6 @@
   "NS-WHEEL-SIL": {
     "folder": "Images/Newskill/Accesories/EASYSLIDE",
     "images": [
-      "Images/Newskill/Accesories/EASYSLIDE/EASYSLIDE 1.jpg",
       "Images/Newskill/Accesories/EASYSLIDE/EASYSLIDE 2.jpg",
       "Images/Newskill/Accesories/EASYSLIDE/EASYSLIDE 3.jpg",
       "Images/Newskill/Accesories/EASYSLIDE/EASYSLIDE 4.jpg",
@@ -373,6 +372,76 @@
       "Images/Newskill/Chairs/KITSUNE V2/RED/KITSUNE V2 RED 4.png",
       "Images/Newskill/Chairs/KITSUNE V2/RED/KITSUNE V2 RED 5.png",
       "Images/Newskill/Chairs/KITSUNE V2/RED/KITSUNE V2 RED 6.png"
+    ]
+  },
+  "NS-CH-NEITH-ZE-BLACK-BLUE": {
+    "folder": "Images/Newskill/Chairs/NEITH ZEPHYR/BLUE",
+    "images": [
+      "Images/Newskill/Chairs/NEITH ZEPHYR/BLUE/NEITH ZEPHYR BLUE 1.png",
+      "Images/Newskill/Chairs/NEITH ZEPHYR/BLUE/NEITH ZEPHYR BLUE 2.png",
+      "Images/Newskill/Chairs/NEITH ZEPHYR/BLUE/NEITH ZEPHYR BLUE 3.png",
+      "Images/Newskill/Chairs/NEITH ZEPHYR/BLUE/NEITH ZEPHYR BLUE 4.png",
+      "Images/Newskill/Chairs/NEITH ZEPHYR/BLUE/NEITH ZEPHYR BLUE 5.png"
+    ]
+  },
+  "NS-CH-NEITH-ZE-BLACK-GRAY": {
+    "folder": "Images/Newskill/Chairs/NEITH ZEPHYR/GREY",
+    "images": [
+      "Images/Newskill/Chairs/NEITH ZEPHYR/GREY/NEITH ZEPHYR GREY 1.png",
+      "Images/Newskill/Chairs/NEITH ZEPHYR/GREY/NEITH ZEPHYR GREY 2.png",
+      "Images/Newskill/Chairs/NEITH ZEPHYR/GREY/NEITH ZEPHYR GREY 3.png",
+      "Images/Newskill/Chairs/NEITH ZEPHYR/GREY/NEITH ZEPHYR GREY 4.png",
+      "Images/Newskill/Chairs/NEITH ZEPHYR/GREY/NEITH ZEPHYR GREY 5.png"
+    ]
+  },
+  "NS-CH-NEITH-ZE-WHITE-PINK": {
+    "folder": "Images/Newskill/Chairs/NEITH ZEPHYR/PINK",
+    "images": [
+      "Images/Newskill/Chairs/NEITH ZEPHYR/PINK/NEITH ZEPHYR PINK 1.png",
+      "Images/Newskill/Chairs/NEITH ZEPHYR/PINK/NEITH ZEPHYR PINK 2.png",
+      "Images/Newskill/Chairs/NEITH ZEPHYR/PINK/NEITH ZEPHYR PINK 3.png",
+      "Images/Newskill/Chairs/NEITH ZEPHYR/PINK/NEITH ZEPHYR PINK 4.png",
+      "Images/Newskill/Chairs/NEITH ZEPHYR/PINK/NEITH ZEPHYR PINK 5.png"
+    ]
+  },
+  "NS-CH-NEITH-ZE-BLACK-RED": {
+    "folder": "Images/Newskill/Chairs/NEITH ZEPHYR/RED",
+    "images": [
+      "Images/Newskill/Chairs/NEITH ZEPHYR/RED/NEITH ZEPHYR RED 1.png",
+      "Images/Newskill/Chairs/NEITH ZEPHYR/RED/NEITH ZEPHYR RED 2.png",
+      "Images/Newskill/Chairs/NEITH ZEPHYR/RED/NEITH ZEPHYR RED 3.png",
+      "Images/Newskill/Chairs/NEITH ZEPHYR/RED/NEITH ZEPHYR RED 4.png",
+      "Images/Newskill/Chairs/NEITH ZEPHYR/RED/NEITH ZEPHYR RED 5.png"
+    ]
+  },
+  "NS-CH-NUE-BB": {
+    "folder": "Images/Newskill/Chairs/NUE/BLACK",
+    "images": [
+      "Images/Newskill/Chairs/NUE/BLACK/NUE BLACK 1.png",
+      "Images/Newskill/Chairs/NUE/BLACK/NUE BLACK 2.png",
+      "Images/Newskill/Chairs/NUE/BLACK/NUE BLACK 3.png",
+      "Images/Newskill/Chairs/NUE/BLACK/NUE BLACK 4.png",
+      "Images/Newskill/Chairs/NUE/BLACK/NUE BLACK 5.png"
+    ]
+  },
+  "NS-CH-NUE-BBL": {
+    "folder": "Images/Newskill/Chairs/NUE/BLUE",
+    "images": [
+      "Images/Newskill/Chairs/NUE/BLUE/NUE BLUE 1.webp",
+      "Images/Newskill/Chairs/NUE/BLUE/NUE BLUE 2.png",
+      "Images/Newskill/Chairs/NUE/BLUE/NUE BLUE 3.png",
+      "Images/Newskill/Chairs/NUE/BLUE/NUE BLUE 4.png",
+      "Images/Newskill/Chairs/NUE/BLUE/NUE BLUE 5.png"
+    ]
+  },
+  "NS-CH-NUE-GG": {
+    "folder": "Images/Newskill/Chairs/NUE/GREY",
+    "images": [
+      "Images/Newskill/Chairs/NUE/GREY/NUE GREY 1.png",
+      "Images/Newskill/Chairs/NUE/GREY/NUE GREY 2.png",
+      "Images/Newskill/Chairs/NUE/GREY/NUE GREY 3.png",
+      "Images/Newskill/Chairs/NUE/GREY/NUE GREY 4.png",
+      "Images/Newskill/Chairs/NUE/GREY/NUE GREY 5.png"
     ]
   }
 }
