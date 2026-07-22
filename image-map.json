@@ -8,6 +8,16 @@
   "NS-HS-SOBEK-71-IV": "Newskill/Headsets/SOBEK 7.1 V2/WHITE",
   "NS-DK-BELENOR": "Newskill/Gaming Desk/BELENOR/BLACK",
   "NS-DK-BELENORIV": "Newskill/Gaming Desk/BELENOR/WHITE",
+  "NS-DK-BELENOR-PROIV": "Newskill/Gaming Desk/BELENOR PRO/WHITE",
+  "NS-MS-ARAKNE-ELITE": "Newskill/Mice/ARAKNE ELITE/BLACK",
+  "NS-MS-ARAKNE-ELITE-IV": "Newskill/Mice/ARAKNE ELITE/WHITE",
+  "NS-MS-CHIRON": "Newskill/Mice/CHIRON/BLACK",
+  "NS-MS-CHIRON-IV": "Newskill/Mice/CHIRON/WHITE",
+  "NS-MS-CHIRON-PRO": "Newskill/Mice/CHIRON PRO/BLACK",
+  "NS-MS-CHIRON-PRO-IV": "Newskill/Mice/CHIRON PRO/WHITE",
+  "NS-MS-EOS": "Newskill/Mice/EOS/BLACK",
+  "NS-MS-EOS-IVORY": "Newskill/Mice/EOS/WHITE",
+  "NS-AC-KALIOPE": "Newskill/Microphones/KALIOPE/BLACK",
   "NS-MP-ARTEMIS-BLU-L": "Newskill/Mouse Pads/ARTEMIS L/BLUE",
   "NS-MP-ARTEMIS-BLU-XL": "Newskill/Mouse Pads/ARTEMIS XL/BLUE",
   "NS-MP-ARTEMIS-BLU-XXL": "Newskill/Mouse Pads/ARTEMIS XXL/BLUE",
@@ -16,6 +26,5 @@
   "NS-MP-ATAMI-SL": "Newskill/Mouse Pads/ATAMI SPEED",
   "NS-MP-ATAMIV2-XL": "Newskill/Mouse Pads/ATAMI V2",
   "NS-MP-NEMESISV2-XL": "Newskill/Mouse Pads/NEMESIS V2 XL/BLACK",
-  "NS-MP-NEMESISV2-IVORY-XL": "Newskill/Mouse Pads/NEMESIS V2 XL/IVORY",
-  "NS-DK-BELENOR-PROIV": "Newskill/Gaming Desk/BELENOR PRO/WHITE"
+  "NS-MP-NEMESISV2-IVORY-XL": "Newskill/Mouse Pads/NEMESIS V2 XL/IVORY"
 }

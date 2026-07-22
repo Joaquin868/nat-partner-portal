@@ -101,6 +101,110 @@
       "Images/Newskill/Gaming Desk/BELENOR/WHITE/BELENOR WHITE 5.png"
     ]
   },
+  "NS-DK-BELENOR-PROIV": {
+    "folder": "Images/Newskill/Gaming Desk/BELENOR PRO/WHITE",
+    "images": [
+      "Images/Newskill/Gaming Desk/BELENOR PRO/WHITE/BELENOR PRO WHITE 1.png",
+      "Images/Newskill/Gaming Desk/BELENOR PRO/WHITE/BELENOR PRO WHITE 2.png",
+      "Images/Newskill/Gaming Desk/BELENOR PRO/WHITE/BELENOR PRO WHITE 3.png",
+      "Images/Newskill/Gaming Desk/BELENOR PRO/WHITE/BELENOR PRO WHITE 4.png",
+      "Images/Newskill/Gaming Desk/BELENOR PRO/WHITE/BELENOR PRO WHITE 5.png",
+      "Images/Newskill/Gaming Desk/BELENOR PRO/WHITE/BELENOR PRO WHITE 6.png",
+      "Images/Newskill/Gaming Desk/BELENOR PRO/WHITE/BELENOR PRO WHITE 7.png"
+    ]
+  },
+  "NS-MS-ARAKNE-ELITE": {
+    "folder": "Images/Newskill/Mice/ARAKNE ELITE/BLACK",
+    "images": [
+      "Images/Newskill/Mice/ARAKNE ELITE/BLACK/ARAKNE ELITE BLACK 1.png",
+      "Images/Newskill/Mice/ARAKNE ELITE/BLACK/ARAKNE ELITE BLACK 2.png",
+      "Images/Newskill/Mice/ARAKNE ELITE/BLACK/ARAKNE ELITE BLACK 3.png",
+      "Images/Newskill/Mice/ARAKNE ELITE/BLACK/ARAKNE ELITE BLACK 4.png",
+      "Images/Newskill/Mice/ARAKNE ELITE/BLACK/ARAKNE ELITE BLACK 5.png"
+    ]
+  },
+  "NS-MS-ARAKNE-ELITE-IV": {
+    "folder": "Images/Newskill/Mice/ARAKNE ELITE/WHITE",
+    "images": [
+      "Images/Newskill/Mice/ARAKNE ELITE/WHITE/ARAKNE ELITE WHITE 1.png",
+      "Images/Newskill/Mice/ARAKNE ELITE/WHITE/ARAKNE ELITE WHITE 2.png",
+      "Images/Newskill/Mice/ARAKNE ELITE/WHITE/ARAKNE ELITE WHITE 3.png",
+      "Images/Newskill/Mice/ARAKNE ELITE/WHITE/ARAKNE ELITE WHITE 4.png",
+      "Images/Newskill/Mice/ARAKNE ELITE/WHITE/ARAKNE ELITE WHITE 5.png"
+    ]
+  },
+  "NS-MS-CHIRON": {
+    "folder": "Images/Newskill/Mice/CHIRON/BLACK",
+    "images": [
+      "Images/Newskill/Mice/CHIRON/BLACK/CHIRON BLACK 1.png",
+      "Images/Newskill/Mice/CHIRON/BLACK/CHIRON BLACK 2.png",
+      "Images/Newskill/Mice/CHIRON/BLACK/CHIRON BLACK 3.png",
+      "Images/Newskill/Mice/CHIRON/BLACK/CHIRON BLACK 4.png",
+      "Images/Newskill/Mice/CHIRON/BLACK/CHIRON BLACK 5.png",
+      "Images/Newskill/Mice/CHIRON/BLACK/CHIRON BLACK 6.png"
+    ]
+  },
+  "NS-MS-CHIRON-IV": {
+    "folder": "Images/Newskill/Mice/CHIRON/WHITE",
+    "images": [
+      "Images/Newskill/Mice/CHIRON/WHITE/CHIRON WHITE 1.png",
+      "Images/Newskill/Mice/CHIRON/WHITE/CHIRON WHITE 2.png",
+      "Images/Newskill/Mice/CHIRON/WHITE/CHIRON WHITE 3.png",
+      "Images/Newskill/Mice/CHIRON/WHITE/CHIRON WHITE 4.png",
+      "Images/Newskill/Mice/CHIRON/WHITE/CHIRON WHITE 5.png",
+      "Images/Newskill/Mice/CHIRON/WHITE/CHIRON WHITE 6.png"
+    ]
+  },
+  "NS-MS-CHIRON-PRO": {
+    "folder": "Images/Newskill/Mice/CHIRON PRO/BLACK",
+    "images": [
+      "Images/Newskill/Mice/CHIRON PRO/BLACK/CHIRON PRO BLACK 1.png",
+      "Images/Newskill/Mice/CHIRON PRO/BLACK/CHIRON PRO BLACK 2.png",
+      "Images/Newskill/Mice/CHIRON PRO/BLACK/CHIRON PRO BLACK 3.png",
+      "Images/Newskill/Mice/CHIRON PRO/BLACK/CHIRON PRO BLACK 4.png",
+      "Images/Newskill/Mice/CHIRON PRO/BLACK/CHIRON PRO BLACK 5.png",
+      "Images/Newskill/Mice/CHIRON PRO/BLACK/CHIRON PRO BLACK 6.png"
+    ]
+  },
+  "NS-MS-CHIRON-PRO-IV": {
+    "folder": "Images/Newskill/Mice/CHIRON PRO/WHITE",
+    "images": [
+      "Images/Newskill/Mice/CHIRON PRO/WHITE/CHIRON PRO WHITE 1.png",
+      "Images/Newskill/Mice/CHIRON PRO/WHITE/CHIRON PRO WHITE 2.png",
+      "Images/Newskill/Mice/CHIRON PRO/WHITE/CHIRON PRO WHITE 3.png",
+      "Images/Newskill/Mice/CHIRON PRO/WHITE/CHIRON PRO WHITE 4.png",
+      "Images/Newskill/Mice/CHIRON PRO/WHITE/CHIRON PRO WHITE 5.png",
+      "Images/Newskill/Mice/CHIRON PRO/WHITE/CHIRON PRO WHITE 6.png"
+    ]
+  },
+  "NS-MS-EOS": {
+    "folder": "Images/Newskill/Mice/EOS/BLACK",
+    "images": [
+      "Images/Newskill/Mice/EOS/BLACK/EOS BLACK 1.png",
+      "Images/Newskill/Mice/EOS/BLACK/EOS BLACK 2.png",
+      "Images/Newskill/Mice/EOS/BLACK/EOS BLACK 3.png",
+      "Images/Newskill/Mice/EOS/BLACK/EOS BLACK 4.png",
+      "Images/Newskill/Mice/EOS/BLACK/EOS BLACK 5.png"
+    ]
+  },
+  "NS-MS-EOS-IVORY": {
+    "folder": "Images/Newskill/Mice/EOS/WHITE",
+    "images": [
+      "Images/Newskill/Mice/EOS/WHITE/EOS WHITE 1.png",
+      "Images/Newskill/Mice/EOS/WHITE/EOS WHITE 2.png",
+      "Images/Newskill/Mice/EOS/WHITE/EOS WHITE 3.png"
+    ]
+  },
+  "NS-AC-KALIOPE": {
+    "folder": "Images/Newskill/Microphones/KALIOPE/BLACK",
+    "images": [
+      "Images/Newskill/Microphones/KALIOPE/BLACK/KALIOPE BLACK 1.png",
+      "Images/Newskill/Microphones/KALIOPE/BLACK/KALIOPE BLACK 2.png",
+      "Images/Newskill/Microphones/KALIOPE/BLACK/KALIOPE BLACK 3.png",
+      "Images/Newskill/Microphones/KALIOPE/BLACK/KALIOPE BLACK 4.png",
+      "Images/Newskill/Microphones/KALIOPE/BLACK/KALIOPE BLACK 5.png"
+    ]
+  },
   "NS-MP-ARTEMIS-BLU-L": {
     "folder": "Images/Newskill/Mouse Pads/ARTEMIS L/BLUE",
     "images": [
