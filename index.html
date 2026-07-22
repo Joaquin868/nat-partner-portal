@@ -87,6 +87,13 @@ tr:hover td{background:#fafafa}
 .ph-dl{position:absolute;top:6px;right:6px;background:rgba(0,0,0,.62);color:#fff;border-radius:6px;padding:5px 7px;font-size:13px;text-decoration:none;line-height:1;display:flex}
 .ph-dl:hover{background:rgba(0,0,0,.85)}
 .ph-empty{padding:26px;color:#8a8a8a;font-size:14px}
+.ph-brandblock{margin-bottom:34px}
+.ph-chips{display:flex;flex-wrap:wrap;gap:8px;margin:2px 0 18px}
+.ph-chip{border:1px solid #ddd;background:#fff;border-radius:999px;padding:5px 13px;font-size:13px;cursor:pointer;color:#444;user-select:none}
+.ph-chip:hover{background:#f5f5f3}
+.ph-chip.active{background:#7c3aed;border-color:#7c3aed;color:#fff}
+.ph-subsection{margin-bottom:22px}
+.ph-subhdr{font-size:12px;font-weight:700;color:#777;text-transform:uppercase;letter-spacing:.5px;margin:0 0 10px}
 </style>
 </head>
 <body>
@@ -195,16 +202,45 @@ async function loadPhotos(){
   const pref=['Newskill','Nfortec','Oversteel'];
   const keys=Object.keys(data);
   const ordered=pref.filter(k=>keys.includes(k)).concat(keys.filter(k=>!pref.includes(k)));
+  const sanit=s=>s.toLowerCase().replace(/[^a-z0-9]/g,'')||'x';
+  const gridFor=imgs=>{
+    let g='<div class="ph-grid">';
+    imgs.forEach(rel=>{ const url=IMG_BASE+encPath(rel); const u=url.replace(/'/g,"\\'");
+      g+='<div class="ph-item"><img src="'+url+'" loading="lazy" onclick="openLightbox(\''+u+'\')"><a class="ph-dl" href="'+url+'" target="_blank" download title="Descargar"><i class="ti ti-download"></i></a></div>'; });
+    return g+'</div>';
+  };
   let html='';
   ordered.forEach(brand=>{
-    const imgs=data[brand]||[]; if(!imgs.length) return;
+    let cats=data[brand]; if(!cats) return;
+    if(Array.isArray(cats)) cats={'General':cats};
+    let names=Object.keys(cats).filter(c=>cats[c]&&cats[c].length);
+    if(!names.length) return;
+    names.sort((a,b)=> ((a==='General')-(b==='General')) || a.localeCompare(b,'es'));
+    const total=names.reduce((s,c)=>s+cats[c].length,0);
     const icon=ICONS[brand]||'ti-photo';
-    html+='<div class="ph-section"><div class="ph-hdr"><i class="ti '+icon+'"></i> '+brand+' <span style="font-weight:400;opacity:.6">('+imgs.length+')</span></div><div class="ph-grid">';
-    imgs.forEach(rel=>{ const url=IMG_BASE+encPath(rel); const u=url.replace(/'/g,"\\'");
-      html+='<div class="ph-item"><img src="'+url+'" loading="lazy" onclick="openLightbox(\''+u+'\')"><a class="ph-dl" href="'+url+'" target="_blank" download title="Descargar"><i class="ti ti-download"></i></a></div>'; });
-    html+='</div></div>';
+    const bid=sanit(brand);
+    html+='<div class="ph-brandblock" id="phb-'+bid+'"><div class="ph-hdr"><i class="ti '+icon+'"></i> '+brand+' <span style="font-weight:400;opacity:.6">('+total+')</span></div>';
+    if(names.length>1){
+      html+='<div class="ph-chips"><span class="ph-chip active" onclick="filterPh(\''+bid+'\',\'__all__\',this)">Todas</span>';
+      names.forEach(c=> html+='<span class="ph-chip" onclick="filterPh(\''+bid+'\',\''+sanit(c)+'\',this)">'+c+' <span style="opacity:.6">'+cats[c].length+'</span></span>');
+      html+='</div>';
+    }
+    names.forEach(c=>{
+      html+='<div class="ph-subsection" data-cat="'+sanit(c)+'">';
+      if(names.length>1) html+='<div class="ph-subhdr">'+c+'</div>';
+      html+=gridFor(cats[c])+'</div>';
+    });
+    html+='</div>';
   });
   box.innerHTML = html || '<div class="ph-empty">No hay fotografías todavía.</div>';
+}
+function filterPh(bid,cat,el){
+  const block=document.getElementById('phb-'+bid); if(!block) return;
+  block.querySelectorAll('.ph-chip').forEach(c=>c.classList.remove('active'));
+  el.classList.add('active');
+  block.querySelectorAll('.ph-subsection').forEach(s=>{
+    s.style.display=(cat==='__all__'||s.getAttribute('data-cat')===cat)?'':'none';
+  });
 }
 document.addEventListener('DOMContentLoaded',loadPhotos);
 
