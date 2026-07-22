@@ -22,6 +22,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 .tab.ns.active{background:#E8312A;color:#fff;border-color:#E8312A}
 .tab.nf.active{background:#1a1a1a;color:#fff;border-color:#1a1a1a}
 .tab.ba.active{background:#2563eb;color:#fff;border-color:#2563eb}
+.tab.ph.active{background:#7c3aed;color:#fff;border-color:#7c3aed}
 .tab:hover:not(.active){background:#f5f5f3;color:#1a1a1a;border-color:#bbb}
 .brand-panel{display:none}.brand-panel.active{display:block}
 .brand-meta{display:flex;align-items:center;justify-content:space-between;margin-bottom:1rem}
@@ -77,6 +78,15 @@ tr:hover td{background:#fafafa}
 .logo-dl:hover{border-color:#bbb;color:#1a1a1a;background:#fff}
 .footer{text-align:center;padding:2rem;font-size:11px;color:#bbb;margin-top:.5rem}
 @media(max-width:640px){.name{max-width:120px}.ean,.pn{display:none}.hdr{padding:.75rem 1rem}}
+.ph-section{margin-bottom:28px}
+.ph-hdr{font-weight:600;margin:0 0 12px;display:flex;align-items:center;gap:8px;font-size:15px}
+.ph-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:12px}
+.ph-item{position:relative;border-radius:10px;overflow:hidden;background:#f0f0ee;aspect-ratio:4/3}
+.ph-item img{width:100%;height:100%;object-fit:cover;cursor:pointer;display:block;transition:transform .2s}
+.ph-item:hover img{transform:scale(1.04)}
+.ph-dl{position:absolute;top:6px;right:6px;background:rgba(0,0,0,.62);color:#fff;border-radius:6px;padding:5px 7px;font-size:13px;text-decoration:none;line-height:1;display:flex}
+.ph-dl:hover{background:rgba(0,0,0,.85)}
+.ph-empty{padding:26px;color:#8a8a8a;font-size:14px}
 </style>
 </head>
 <body>
@@ -102,6 +112,7 @@ tr:hover td{background:#fafafa}
     <div class="tab ns active" onclick="showBrand('ns',this)"><i class="ti ti-device-gamepad-2"></i> Newskill <span style="font-weight:400;opacity:.7">(98)</span></div>
     <div class="tab nf" onclick="showBrand('nf',this)"><i class="ti ti-cpu"></i> Nfortec <span style="font-weight:400;opacity:.7">(58)</span></div>
     <div class="tab ba" onclick="showBrand('ba',this)"><i class="ti ti-photo"></i> Brand assets</div>
+    <div class="tab ph" onclick="showBrand('ph',this)"><i class="ti ti-camera"></i> Fotografía</div>
   </div>
   <div id="brand-ns" class="brand-panel active">
     <div class="brand-meta"><span class="brand-label">Newskill — gaming peripherals</span><span class="total-count">98 products · click category to expand</span></div>
@@ -123,6 +134,10 @@ tr:hover td{background:#fafafa}
       <div class="logos-previews"><img src="https://raw.githubusercontent.com/Joaquin868/nat-partner-portal/main/Nfortec%201.1.png" class="logo-prev nf" alt="Nfortec 1"><img src="https://raw.githubusercontent.com/Joaquin868/nat-partner-portal/main/Nfortec%201.2.png" class="logo-prev nf" alt="Nfortec 2"><img src="https://raw.githubusercontent.com/Joaquin868/nat-partner-portal/main/Nfortec%201.3.png" class="logo-prev nf" alt="Nfortec 3"><img src="https://raw.githubusercontent.com/Joaquin868/nat-partner-portal/main/Nfortec%201.4.png" class="logo-prev nf" alt="Nfortec 4"><img src="https://raw.githubusercontent.com/Joaquin868/nat-partner-portal/main/Nfortec%201.5.png" class="logo-prev nf" alt="Nfortec 5"><img src="https://raw.githubusercontent.com/Joaquin868/nat-partner-portal/main/Nfortec%201.6.png" class="logo-prev nf" alt="Nfortec 6"></div>
       <div class="logos-downloads"><a href="https://raw.githubusercontent.com/Joaquin868/nat-partner-portal/main/Nfortec%201.1.png" class="logo-dl" target="_blank" download><i class="ti ti-download"></i> Variant 1</a><a href="https://raw.githubusercontent.com/Joaquin868/nat-partner-portal/main/Nfortec%201.2.png" class="logo-dl" target="_blank" download><i class="ti ti-download"></i> Variant 2</a><a href="https://raw.githubusercontent.com/Joaquin868/nat-partner-portal/main/Nfortec%201.3.png" class="logo-dl" target="_blank" download><i class="ti ti-download"></i> Variant 3</a><a href="https://raw.githubusercontent.com/Joaquin868/nat-partner-portal/main/Nfortec%201.4.png" class="logo-dl" target="_blank" download><i class="ti ti-download"></i> Variant 4</a><a href="https://raw.githubusercontent.com/Joaquin868/nat-partner-portal/main/Nfortec%201.5.png" class="logo-dl" target="_blank" download><i class="ti ti-download"></i> Variant 5</a><a href="https://raw.githubusercontent.com/Joaquin868/nat-partner-portal/main/Nfortec%201.6.png" class="logo-dl" target="_blank" download><i class="ti ti-download"></i> Variant 6</a></div>
     </div>
+  </div>
+<div id="brand-ph" class="brand-panel">
+    <div class="brand-meta"><span class="brand-label">Fotografía — imágenes reales</span><span class="total-count">Para tus listings, web y redes</span></div>
+    <div id="ph-content"><div class="ph-empty">Cargando fotografías…</div></div>
   </div>
 </div>
 <div class="footer">NAT Partner Resources · Updated July 2026 · For authorised B2B distributors only</div>
@@ -169,6 +184,30 @@ async function loadGalleries(){
   });
 }
 document.addEventListener('DOMContentLoaded',loadGalleries);
+async function loadPhotos(){
+  const box=document.getElementById('ph-content'); if(!box) return;
+  let data;
+  try{ const r=await fetch(IMG_BASE+"photos.json?ts="+Date.now());
+       if(!r.ok){ box.innerHTML='<div class="ph-empty">No hay fotografías todavía.</div>'; return; }
+       data=await r.json(); }
+  catch(e){ box.innerHTML='<div class="ph-empty">No se pudieron cargar las fotografías.</div>'; return; }
+  const ICONS={'Newskill':'ti-device-gamepad-2','Nfortec':'ti-cpu','Oversteel':'ti-armchair'};
+  const pref=['Newskill','Nfortec','Oversteel'];
+  const keys=Object.keys(data);
+  const ordered=pref.filter(k=>keys.includes(k)).concat(keys.filter(k=>!pref.includes(k)));
+  let html='';
+  ordered.forEach(brand=>{
+    const imgs=data[brand]||[]; if(!imgs.length) return;
+    const icon=ICONS[brand]||'ti-photo';
+    html+='<div class="ph-section"><div class="ph-hdr"><i class="ti '+icon+'"></i> '+brand+' <span style="font-weight:400;opacity:.6">('+imgs.length+')</span></div><div class="ph-grid">';
+    imgs.forEach(rel=>{ const url=IMG_BASE+encPath(rel); const u=url.replace(/'/g,"\\'");
+      html+='<div class="ph-item"><img src="'+url+'" loading="lazy" onclick="openLightbox(\''+u+'\')"><a class="ph-dl" href="'+url+'" target="_blank" download title="Descargar"><i class="ti ti-download"></i></a></div>'; });
+    html+='</div></div>';
+  });
+  box.innerHTML = html || '<div class="ph-empty">No hay fotografías todavía.</div>';
+}
+document.addEventListener('DOMContentLoaded',loadPhotos);
+
 </script>
 </body>
 </html>
