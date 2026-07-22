@@ -1,33 +1,32 @@
 {
   "Newskill": {
-    "Chairs": [
-      "Images/Photography/Newskill/Chairs/BANSHEE PRO/BANSHEE PRO 1.jpg",
-      "Images/Photography/Newskill/Chairs/BANSHEE PRO/BANSHEE PRO 2.png",
-      "Images/Photography/Newskill/Chairs/BANSHEE PRO/BANSHEE PRO 3.jpg",
-      "Images/Photography/Newskill/Chairs/BANSHEE PRO/BANSHEE PRO 4.png",
-      "Images/Photography/Newskill/Chairs/BANSHEE PRO/BANSHEE PRO 5.png",
-      "Images/Photography/Newskill/Chairs/KITSUNE V2/KITSUNE V2 1.jpg",
-      "Images/Photography/Newskill/Chairs/KITSUNE V2/KITSUNE V2 2.jpg",
-      "Images/Photography/Newskill/Chairs/KITSUNE V2/KITSUNE V2 3.jpg",
-      "Images/Photography/Newskill/Chairs/KITSUNE V2/KITSUNE V2 4.jpg",
-      "Images/Photography/Newskill/Chairs/KITSUNE V2/KITSUNE V2 5.jpg",
-      "Images/Photography/Newskill/Chairs/NEITH ZEPHYR/NEITH ZEPHYR 1.webp",
-      "Images/Photography/Newskill/Chairs/NEITH ZEPHYR/NEITH ZEPHYR 2.png",
-      "Images/Photography/Newskill/Chairs/NEITH ZEPHYR/NEITH ZEPHYR 3.jpg",
-      "Images/Photography/Newskill/Chairs/NEITH ZEPHYR/NEITH ZEPHYR 4.jpg",
-      "Images/Photography/Newskill/Chairs/NEITH ZEPHYR/NEITH ZEPHYR 5.jpg",
-      "Images/Photography/Newskill/Chairs/TAKAMIKURA V2/TAKAMIKURA V2 1.png",
-      "Images/Photography/Newskill/Chairs/TAKAMIKURA V2/TAKAMIKURA V2 2.JPG",
-      "Images/Photography/Newskill/Chairs/TAKAMIKURA V2/TAKAMIKURA V2 3.png",
-      "Images/Photography/Newskill/Chairs/TAKAMIKURA V2/TAKAMIKURA V2 4.JPG",
-      "Images/Photography/Newskill/Chairs/TAKAMIKURA V2/TAKAMIKURA V2 5.JPG"
+    "ATON V2": [
+      "Images/Photography/Newskill/ATON V2/ATON V2 1.jpg",
+      "Images/Photography/Newskill/ATON V2/ATON V2 2.jpg",
+      "Images/Photography/Newskill/ATON V2/ATON V2 3.jpg",
+      "Images/Photography/Newskill/ATON V2/ATON V2 4.jpg",
+      "Images/Photography/Newskill/ATON V2/ATON V2 5.jpg"
     ],
-    "Headsets": [
-      "Images/Photography/Newskill/Headsets/ATON V2 1.jpg",
-      "Images/Photography/Newskill/Headsets/ATON V2 2.jpg",
-      "Images/Photography/Newskill/Headsets/ATON V2 3.jpg",
-      "Images/Photography/Newskill/Headsets/ATON V2 4.jpg",
-      "Images/Photography/Newskill/Headsets/ATON V2 5.jpg"
+    "BANSHEE PRO": [
+      "Images/Photography/Newskill/BANSHEE PRO/BANSHEE PRO 1.jpg",
+      "Images/Photography/Newskill/BANSHEE PRO/BANSHEE PRO 2.png",
+      "Images/Photography/Newskill/BANSHEE PRO/BANSHEE PRO 3.jpg",
+      "Images/Photography/Newskill/BANSHEE PRO/BANSHEE PRO 4.png",
+      "Images/Photography/Newskill/BANSHEE PRO/BANSHEE PRO 5.png"
+    ],
+    "KITSUNE V2": [
+      "Images/Photography/Newskill/KITSUNE V2/KITSUNE V2 1.jpg",
+      "Images/Photography/Newskill/KITSUNE V2/KITSUNE V2 2.jpg",
+      "Images/Photography/Newskill/KITSUNE V2/KITSUNE V2 3.jpg",
+      "Images/Photography/Newskill/KITSUNE V2/KITSUNE V2 4.jpg",
+      "Images/Photography/Newskill/KITSUNE V2/KITSUNE V2 5.jpg"
+    ],
+    "NEITH ZEPHYR": [
+      "Images/Photography/Newskill/NEITH ZEPHYR/NEITH ZEPHYR 1.webp",
+      "Images/Photography/Newskill/NEITH ZEPHYR/NEITH ZEPHYR 2.png",
+      "Images/Photography/Newskill/NEITH ZEPHYR/NEITH ZEPHYR 3.jpg",
+      "Images/Photography/Newskill/NEITH ZEPHYR/NEITH ZEPHYR 4.jpg",
+      "Images/Photography/Newskill/NEITH ZEPHYR/NEITH ZEPHYR 5.jpg"
     ],
     "NUE": [
       "Images/Photography/Newskill/NUE/NUE 1.webp",
@@ -35,6 +34,13 @@
       "Images/Photography/Newskill/NUE/NUE 3.webp",
       "Images/Photography/Newskill/NUE/NUE 4.webp",
       "Images/Photography/Newskill/NUE/NUE 5.webp"
+    ],
+    "TAKAMIKURA V2": [
+      "Images/Photography/Newskill/TAKAMIKURA V2/TAKAMIKURA V2 1.png",
+      "Images/Photography/Newskill/TAKAMIKURA V2/TAKAMIKURA V2 2.JPG",
+      "Images/Photography/Newskill/TAKAMIKURA V2/TAKAMIKURA V2 3.png",
+      "Images/Photography/Newskill/TAKAMIKURA V2/TAKAMIKURA V2 4.JPG",
+      "Images/Photography/Newskill/TAKAMIKURA V2/TAKAMIKURA V2 5.JPG"
     ]
   }
 }
