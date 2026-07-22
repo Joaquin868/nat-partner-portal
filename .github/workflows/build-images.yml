@@ -1,0 +1,31 @@
+name: Build images manifest
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'Images/**'
+      - 'image-map.json'
+      - 'build_images.py'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - run: python build_images.py
+      - name: Commit images.json if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add images.json
+          if git diff --staged --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Auto-update images.json [skip ci]"
+            git push
+          fi
