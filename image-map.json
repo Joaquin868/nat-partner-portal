@@ -42,5 +42,18 @@
   "NS-CH-NEITH-ZE-BLACK-RED": "Newskill/Chairs/NEITH ZEPHYR/RED",
   "NS-CH-NUE-BB": "Newskill/Chairs/NUE/BLACK",
   "NS-CH-NUE-BBL": "Newskill/Chairs/NUE/BLUE",
-  "NS-CH-NUE-GG": "Newskill/Chairs/NUE/GREY"
+  "NS-CH-NUE-GG": "Newskill/Chairs/NUE/GREY",
+  "NS-CH-TAKAMIKURAV2-B": "Newskill/Chairs/TAKAMIKURA/BLUE",
+  "NS-CH-TAKAMIKURAV2-G": "Newskill/Chairs/TAKAMIKURA/GREY",
+  "NS-CH-TAKAMIKURAV2-P": "Newskill/Chairs/TAKAMIKURA/PINK",
+  "NS-CH-TAKAMIKURAV2-M": "Newskill/Chairs/TAKAMIKURA/PURPLE",
+  "NS-CH-TAKAMIKURAV2-R": "Newskill/Chairs/TAKAMIKURA/RED",
+  "NS-KB-PYROSPRO": "Newskill/Keyboards/PYROS PRO/BLACK",
+  "NS-KB-PYROSPRO-IV": "Newskill/Keyboards/PYROS PRO/IVORY",
+  "NS-KB-PYROSV2": "Newskill/Keyboards/PYROS V2/BLACK",
+  "NS-KB-PYROSV2-IV": "Newskill/Keyboards/PYROS V2/IVORY",
+  "NS-KB-SERIKEV2": "Newskill/Keyboards/SERIKE V2/BLACK",
+  "NS-KB-SERIKEV2-IVO": "Newskill/Keyboards/SERIKE V2/IVORY",
+  "NS-KB-SERIKEV2-TKL": "Newskill/Keyboards/SERIKE V2 TKL/BLACK",
+  "NS-KB-SERIKEV2-TKL-IVO": "Newskill/Keyboards/SERIKE V2 TKL/IVORY"
 }
