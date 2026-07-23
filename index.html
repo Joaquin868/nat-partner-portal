@@ -119,7 +119,7 @@ tr:hover td{background:#fafafa}
     <div class="tab ns active" onclick="showBrand('ns',this)"><i class="ti ti-device-gamepad-2"></i> Newskill <span style="font-weight:400;opacity:.7">(98)</span></div>
     <div class="tab nf" onclick="showBrand('nf',this)"><i class="ti ti-cpu"></i> Nfortec <span style="font-weight:400;opacity:.7">(58)</span></div>
     <div class="tab ba" onclick="showBrand('ba',this)"><i class="ti ti-photo"></i> Brand assets</div>
-    <div class="tab ph" onclick="showBrand('ph',this)"><i class="ti ti-camera"></i> Fotografía</div>
+    <div class="tab ph" onclick="showBrand('ph',this)"><i class="ti ti-camera"></i> Photography</div>
   </div>
   <div id="brand-ns" class="brand-panel active">
     <div class="brand-meta"><span class="brand-label">Newskill — gaming peripherals</span><span class="total-count">98 products · click category to expand</span></div>
@@ -143,8 +143,8 @@ tr:hover td{background:#fafafa}
     </div>
   </div>
 <div id="brand-ph" class="brand-panel">
-    <div class="brand-meta"><span class="brand-label">Fotografía — imágenes reales</span><span class="total-count">Para tus listings, web y redes</span></div>
-    <div id="ph-content"><div class="ph-empty">Cargando fotografías…</div></div>
+    <div class="brand-meta"><span class="brand-label">Photography — real images</span><span class="total-count">For your listings, website and social media</span></div>
+    <div id="ph-content"><div class="ph-empty">Loading photos…</div></div>
   </div>
 </div>
 <div class="footer">NAT Partner Resources · Updated July 2026 · For authorised B2B distributors only</div>
@@ -195,9 +195,9 @@ async function loadPhotos(){
   const box=document.getElementById('ph-content'); if(!box) return;
   let data;
   try{ const r=await fetch(IMG_BASE+"photos.json?ts="+Date.now());
-       if(!r.ok){ box.innerHTML='<div class="ph-empty">No hay fotografías todavía.</div>'; return; }
+       if(!r.ok){ box.innerHTML='<div class="ph-empty">No photos yet.</div>'; return; }
        data=await r.json(); }
-  catch(e){ box.innerHTML='<div class="ph-empty">No se pudieron cargar las fotografías.</div>'; return; }
+  catch(e){ box.innerHTML='<div class="ph-empty">Could not load photos.</div>'; return; }
   const ICONS={'Newskill':'ti-device-gamepad-2','Nfortec':'ti-cpu','Oversteel':'ti-armchair'};
   const pref=['Newskill','Nfortec','Oversteel'];
   const keys=Object.keys(data);
@@ -206,7 +206,7 @@ async function loadPhotos(){
   const gridFor=imgs=>{
     let g='<div class="ph-grid">';
     imgs.forEach(rel=>{ const url=IMG_BASE+encPath(rel); const u=url.replace(/'/g,"\\'");
-      g+='<div class="ph-item"><img src="'+url+'" loading="lazy" onclick="openLightbox(\''+u+'\')"><a class="ph-dl" href="'+url+'" target="_blank" download title="Descargar"><i class="ti ti-download"></i></a></div>'; });
+      g+='<div class="ph-item"><img src="'+url+'" loading="lazy" onclick="openLightbox(\''+u+'\')"><a class="ph-dl" href="'+url+'" target="_blank" download title="Download"><i class="ti ti-download"></i></a></div>'; });
     return g+'</div>';
   };
   let html='';
@@ -221,7 +221,7 @@ async function loadPhotos(){
     const bid=sanit(brand);
     html+='<div class="ph-brandblock" id="phb-'+bid+'"><div class="ph-hdr"><i class="ti '+icon+'"></i> '+brand+' <span style="font-weight:400;opacity:.6">('+total+')</span></div>';
     if(names.length>1){
-      html+='<div class="ph-chips"><span class="ph-chip active" onclick="filterPh(\''+bid+'\',\'__all__\',this)">Todas</span>';
+      html+='<div class="ph-chips"><span class="ph-chip active" onclick="filterPh(\''+bid+'\',\'__all__\',this)">All</span>';
       names.forEach(c=> html+='<span class="ph-chip" onclick="filterPh(\''+bid+'\',\''+sanit(c)+'\',this)">'+c+' <span style="opacity:.6">'+cats[c].length+'</span></span>');
       html+='</div>';
     }
@@ -232,7 +232,7 @@ async function loadPhotos(){
     });
     html+='</div>';
   });
-  box.innerHTML = html || '<div class="ph-empty">No hay fotografías todavía.</div>';
+  box.innerHTML = html || '<div class="ph-empty">No photos yet.</div>';
 }
 function filterPh(bid,cat,el){
   const block=document.getElementById('phb-'+bid); if(!block) return;
