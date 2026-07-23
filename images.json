@@ -635,5 +635,116 @@
       "Images/Nfortec/Power supplies/SAGITTA X2/1000W/SAGITTA X2 1000W 1.jpg",
       "Images/Nfortec/Power supplies/SAGITTA X2/1000W/SAGITTA X2 1000W 2.jpg"
     ]
+  },
+  "NF-CPU-CENTAURUSX2-B": {
+    "folder": "Images/Nfortec/Air Cooling/CENTAURUS X2/BLACK",
+    "images": [
+      "Images/Nfortec/Air Cooling/CENTAURUS X2/BLACK/CENTAURUS X2 BLACK 1.webp",
+      "Images/Nfortec/Air Cooling/CENTAURUS X2/BLACK/CENTAURUS X2 BLACK 2.png",
+      "Images/Nfortec/Air Cooling/CENTAURUS X2/BLACK/CENTAURUS X2 BLACK 3.png",
+      "Images/Nfortec/Air Cooling/CENTAURUS X2/BLACK/CENTAURUS X2 BLACK 4.png",
+      "Images/Nfortec/Air Cooling/CENTAURUS X2/BLACK/CENTAURUS X2 BLACK 5.png"
+    ]
+  },
+  "NF-CPU-CENTAURUSX2-W": {
+    "folder": "Images/Nfortec/Air Cooling/CENTAURUS X2/WHITE",
+    "images": [
+      "Images/Nfortec/Air Cooling/CENTAURUS X2/WHITE/CENTAURUS X2 WHITE 1.png",
+      "Images/Nfortec/Air Cooling/CENTAURUS X2/WHITE/CENTAURUS X2 WHITE 2.png",
+      "Images/Nfortec/Air Cooling/CENTAURUS X2/WHITE/CENTAURUS X2 WHITE 3.png",
+      "Images/Nfortec/Air Cooling/CENTAURUS X2/WHITE/CENTAURUS X2 WHITE 4.png",
+      "Images/Nfortec/Air Cooling/CENTAURUS X2/WHITE/CENTAURUS X2 WHITE 5.png"
+    ]
+  },
+  "NF-CPU-SCULPTORX2-B": {
+    "folder": "Images/Nfortec/Air Cooling/SCULPTOR X2/SCULPTOR X2 BLACK",
+    "images": [
+      "Images/Nfortec/Air Cooling/SCULPTOR X2/SCULPTOR X2 BLACK/SCULPTOR X2 BLACK 1.png",
+      "Images/Nfortec/Air Cooling/SCULPTOR X2/SCULPTOR X2 BLACK/SCULPTOR X2 BLACK 2.png",
+      "Images/Nfortec/Air Cooling/SCULPTOR X2/SCULPTOR X2 BLACK/SCULPTOR X2 BLACK 3.png",
+      "Images/Nfortec/Air Cooling/SCULPTOR X2/SCULPTOR X2 BLACK/SCULPTOR X2 BLACK 4.png",
+      "Images/Nfortec/Air Cooling/SCULPTOR X2/SCULPTOR X2 BLACK/SCULPTOR X2 BLACK 5.png",
+      "Images/Nfortec/Air Cooling/SCULPTOR X2/SCULPTOR X2 BLACK/SCULPTOR X2 BLACK 6.png"
+    ]
+  },
+  "NF-PSU-SCUTUMX-SM-850W": {
+    "folder": "Images/Nfortec/Power supplies/SCUTUM X 850W",
+    "images": [
+      "Images/Nfortec/Power supplies/SCUTUM X 850W/SCUTUM X 850W 1.png",
+      "Images/Nfortec/Power supplies/SCUTUM X 850W/SCUTUM X 850W 2.png",
+      "Images/Nfortec/Power supplies/SCUTUM X 850W/SCUTUM X 850W 3.png",
+      "Images/Nfortec/Power supplies/SCUTUM X 850W/SCUTUM X 850W 4.png"
+    ]
+  },
+  "NF-WC-ATRIAX-240-B": {
+    "folder": "Images/Nfortec/Water Cooling/ATRIA X 240/BLACK",
+    "images": [
+      "Images/Nfortec/Water Cooling/ATRIA X 240/BLACK/ATRIA X 240 BLACK 1.png",
+      "Images/Nfortec/Water Cooling/ATRIA X 240/BLACK/ATRIA X 240 BLACK 2.png",
+      "Images/Nfortec/Water Cooling/ATRIA X 240/BLACK/ATRIA X 240 BLACK 3.png",
+      "Images/Nfortec/Water Cooling/ATRIA X 240/BLACK/ATRIA X 240 BLACK 4.png",
+      "Images/Nfortec/Water Cooling/ATRIA X 240/BLACK/ATRIA X 240 BLACK 5.png",
+      "Images/Nfortec/Water Cooling/ATRIA X 240/BLACK/ATRIA X 240 BLACK 6.png"
+    ]
+  },
+  "NF-WC-ATRIAX-240-W": {
+    "folder": "Images/Nfortec/Water Cooling/ATRIA X 240/WHITE",
+    "images": [
+      "Images/Nfortec/Water Cooling/ATRIA X 240/WHITE/ATRIA X 240 WHITE 1.png",
+      "Images/Nfortec/Water Cooling/ATRIA X 240/WHITE/ATRIA X 240 WHITE 2.png",
+      "Images/Nfortec/Water Cooling/ATRIA X 240/WHITE/ATRIA X 240 WHITE 3.png",
+      "Images/Nfortec/Water Cooling/ATRIA X 240/WHITE/ATRIA X 240 WHITE 4.png",
+      "Images/Nfortec/Water Cooling/ATRIA X 240/WHITE/ATRIA X 240 WHITE 5.png",
+      "Images/Nfortec/Water Cooling/ATRIA X 240/WHITE/ATRIA X 240 WHITE 6.png"
+    ]
+  },
+  "NF-WC-ATRIAX-360-B": {
+    "folder": "Images/Nfortec/Water Cooling/ATRIA X 360/BLACK",
+    "images": [
+      "Images/Nfortec/Water Cooling/ATRIA X 360/BLACK/ATRIA X 360 BLACK 1.png",
+      "Images/Nfortec/Water Cooling/ATRIA X 360/BLACK/ATRIA X 360 BLACK 2.png",
+      "Images/Nfortec/Water Cooling/ATRIA X 360/BLACK/ATRIA X 360 BLACK 3.png",
+      "Images/Nfortec/Water Cooling/ATRIA X 360/BLACK/ATRIA X 360 BLACK 4.png"
+    ]
+  },
+  "NF-WC-ATRIAX-360-W": {
+    "folder": "Images/Nfortec/Water Cooling/ATRIA X 360/WHITE",
+    "images": [
+      "Images/Nfortec/Water Cooling/ATRIA X 360/WHITE/ATRIA X 360 WHITE 1.png",
+      "Images/Nfortec/Water Cooling/ATRIA X 360/WHITE/ATRIA X 360 WHITE 2.png",
+      "Images/Nfortec/Water Cooling/ATRIA X 360/WHITE/ATRIA X 360 WHITE 3.png",
+      "Images/Nfortec/Water Cooling/ATRIA X 360/WHITE/ATRIA X 360 WHITE 4.png"
+    ]
+  },
+  "NF-WC-HYDRUSV2-240W": {
+    "folder": "Images/Nfortec/Water Cooling/HYDRUS V2 240",
+    "images": [
+      "Images/Nfortec/Water Cooling/HYDRUS V2 240/HYDRUS V2 240 1.png",
+      "Images/Nfortec/Water Cooling/HYDRUS V2 240/HYDRUS V2 240 2.png",
+      "Images/Nfortec/Water Cooling/HYDRUS V2 240/HYDRUS V2 240 3.png",
+      "Images/Nfortec/Water Cooling/HYDRUS V2 240/HYDRUS V2 240 4.png"
+    ]
+  },
+  "NF-SFAN-SEDNA-240-BLACK": {
+    "folder": "Images/Nfortec/Water Cooling/SEDNA/SEDNA 240",
+    "images": [
+      "Images/Nfortec/Water Cooling/SEDNA/SEDNA 240/SEDNA 240 1.png",
+      "Images/Nfortec/Water Cooling/SEDNA/SEDNA 240/SEDNA 240 2.png",
+      "Images/Nfortec/Water Cooling/SEDNA/SEDNA 240/SEDNA 240 3.png",
+      "Images/Nfortec/Water Cooling/SEDNA/SEDNA 240/SEDNA 240 4.png",
+      "Images/Nfortec/Water Cooling/SEDNA/SEDNA 240/SEDNA 240 5.png",
+      "Images/Nfortec/Water Cooling/SEDNA/SEDNA 240/SEDNA 240 6.png"
+    ]
+  },
+  "NF-SFAN-SEDNA-360-BLACK": {
+    "folder": "Images/Nfortec/Water Cooling/SEDNA/SEDNA 360",
+    "images": [
+      "Images/Nfortec/Water Cooling/SEDNA/SEDNA 360/SEDNA 360 1.png",
+      "Images/Nfortec/Water Cooling/SEDNA/SEDNA 360/SEDNA 360 2.png",
+      "Images/Nfortec/Water Cooling/SEDNA/SEDNA 360/SEDNA 360 3.png",
+      "Images/Nfortec/Water Cooling/SEDNA/SEDNA 360/SEDNA 360 4.png",
+      "Images/Nfortec/Water Cooling/SEDNA/SEDNA 360/SEDNA 360 5.png",
+      "Images/Nfortec/Water Cooling/SEDNA/SEDNA 360/SEDNA 360 6.png"
+    ]
   }
 }

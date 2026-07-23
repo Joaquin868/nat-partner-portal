@@ -60,5 +60,16 @@
   "NF-PSU-SAGITTAX-FM-750W": "Nfortec/Power supplies/SAGITTA X 750W",
   "NF-PSU-SAGITTAX2-FM-750W": "Nfortec/Power supplies/SAGITTA X2/750W",
   "NF-PSU-SAGITTAX2-FM-850W": "Nfortec/Power supplies/SAGITTA X2/850W",
-  "NF-PSU-SAGITTAX2-FM-1000W": "Nfortec/Power supplies/SAGITTA X2/1000W"
+  "NF-PSU-SAGITTAX2-FM-1000W": "Nfortec/Power supplies/SAGITTA X2/1000W",
+  "NF-CPU-CENTAURUSX2-B": "Nfortec/Air Cooling/CENTAURUS X2/BLACK",
+  "NF-CPU-CENTAURUSX2-W": "Nfortec/Air Cooling/CENTAURUS X2/WHITE",
+  "NF-CPU-SCULPTORX2-B": "Nfortec/Air Cooling/SCULPTOR X2/SCULPTOR X2 BLACK",
+  "NF-PSU-SCUTUMX-SM-850W": "Nfortec/Power supplies/SCUTUM X 850W",
+  "NF-WC-ATRIAX-240-B": "Nfortec/Water Cooling/ATRIA X 240/BLACK",
+  "NF-WC-ATRIAX-240-W": "Nfortec/Water Cooling/ATRIA X 240/WHITE",
+  "NF-WC-ATRIAX-360-B": "Nfortec/Water Cooling/ATRIA X 360/BLACK",
+  "NF-WC-ATRIAX-360-W": "Nfortec/Water Cooling/ATRIA X 360/WHITE",
+  "NF-WC-HYDRUSV2-240W": "Nfortec/Water Cooling/HYDRUS V2 240",
+  "NF-SFAN-SEDNA-240-BLACK": "Nfortec/Water Cooling/SEDNA/SEDNA 240",
+  "NF-SFAN-SEDNA-360-BLACK": "Nfortec/Water Cooling/SEDNA/SEDNA 360"
 }
