@@ -55,5 +55,10 @@
   "NS-KB-SERIKEV2": "Newskill/Keyboards/SERIKE V2/BLACK",
   "NS-KB-SERIKEV2-IVO": "Newskill/Keyboards/SERIKE V2/IVORY",
   "NS-KB-SERIKEV2-TKL": "Newskill/Keyboards/SERIKE V2 TKL/BLACK",
-  "NS-KB-SERIKEV2-TKL-IVO": "Newskill/Keyboards/SERIKE V2 TKL/IVORY"
+  "NS-KB-SERIKEV2-TKL-IVO": "Newskill/Keyboards/SERIKE V2 TKL/IVORY",
+  "NF-AC-MEDTHERM-4G": "Nfortec/Accessories/MEDUSA THERMAL PASTE",
+  "NF-PSU-SAGITTAX-FM-750W": "Nfortec/Power supplies/SAGITTA X 750W",
+  "NF-PSU-SAGITTAX2-FM-750W": "Nfortec/Power supplies/SAGITTA X2/750W",
+  "NF-PSU-SAGITTAX2-FM-850W": "Nfortec/Power supplies/SAGITTA X2/850W",
+  "NF-PSU-SAGITTAX2-FM-1000W": "Nfortec/Power supplies/SAGITTA X2/1000W"
 }

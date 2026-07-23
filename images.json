@@ -594,5 +594,46 @@
       "Images/Newskill/Keyboards/SERIKE V2 TKL/IVORY/SERIKE V2 TKL WHITE 7.png",
       "Images/Newskill/Keyboards/SERIKE V2 TKL/IVORY/SERIKE V2 TKL WHITE 8.png"
     ]
+  },
+  "NF-AC-MEDTHERM-4G": {
+    "folder": "Images/Nfortec/Accessories/MEDUSA THERMAL PASTE",
+    "images": [
+      "Images/Nfortec/Accessories/MEDUSA THERMAL PASTE/MEDUSA THERMAL PASTE 1.webp",
+      "Images/Nfortec/Accessories/MEDUSA THERMAL PASTE/MEDUSA THERMAL PASTE 2.webp",
+      "Images/Nfortec/Accessories/MEDUSA THERMAL PASTE/MEDUSA THERMAL PASTE 3.webp",
+      "Images/Nfortec/Accessories/MEDUSA THERMAL PASTE/MEDUSA THERMAL PASTE 4.webp"
+    ]
+  },
+  "NF-PSU-SAGITTAX-FM-750W": {
+    "folder": "Images/Nfortec/Power supplies/SAGITTA X 750W",
+    "images": [
+      "Images/Nfortec/Power supplies/SAGITTA X 750W/SAGITTA X 750W 1.webp",
+      "Images/Nfortec/Power supplies/SAGITTA X 750W/SAGITTA X 750W 2.webp",
+      "Images/Nfortec/Power supplies/SAGITTA X 750W/SAGITTA X 750W 3.webp",
+      "Images/Nfortec/Power supplies/SAGITTA X 750W/SAGITTA X 750W 4.webp"
+    ]
+  },
+  "NF-PSU-SAGITTAX2-FM-750W": {
+    "folder": "Images/Nfortec/Power supplies/SAGITTA X2/750W",
+    "images": [
+      "Images/Nfortec/Power supplies/SAGITTA X2/750W/SAGITTA X2 750W 1.jpg",
+      "Images/Nfortec/Power supplies/SAGITTA X2/750W/SAGITTA X2 750W 2.jpg",
+      "Images/Nfortec/Power supplies/SAGITTA X2/750W/SAGITTA X2 750W 3.jpg",
+      "Images/Nfortec/Power supplies/SAGITTA X2/750W/SAGITTA X2 750W 4.jpg"
+    ]
+  },
+  "NF-PSU-SAGITTAX2-FM-850W": {
+    "folder": "Images/Nfortec/Power supplies/SAGITTA X2/850W",
+    "images": [
+      "Images/Nfortec/Power supplies/SAGITTA X2/850W/SAGITTA X2 850W 1.jpg",
+      "Images/Nfortec/Power supplies/SAGITTA X2/850W/SAGITTA X2 850W 2.jpg"
+    ]
+  },
+  "NF-PSU-SAGITTAX2-FM-1000W": {
+    "folder": "Images/Nfortec/Power supplies/SAGITTA X2/1000W",
+    "images": [
+      "Images/Nfortec/Power supplies/SAGITTA X2/1000W/SAGITTA X2 1000W 1.jpg",
+      "Images/Nfortec/Power supplies/SAGITTA X2/1000W/SAGITTA X2 1000W 2.jpg"
+    ]
   }
 }
