@@ -746,5 +746,201 @@
       "Images/Nfortec/Water Cooling/SEDNA/SEDNA 360/SEDNA 360 5.png",
       "Images/Nfortec/Water Cooling/SEDNA/SEDNA 360/SEDNA 360 6.png"
     ]
+  },
+  "NF-CS-CAELUM-BLACK": {
+    "folder": "Images/Nfortec/Cases/CAELUM/CAELUM BLACK",
+    "images": [
+      "Images/Nfortec/Cases/CAELUM/CAELUM BLACK/CAELUM BLACK 1.png",
+      "Images/Nfortec/Cases/CAELUM/CAELUM BLACK/CAELUM BLACK 2.png",
+      "Images/Nfortec/Cases/CAELUM/CAELUM BLACK/CAELUM BLACK 3.png",
+      "Images/Nfortec/Cases/CAELUM/CAELUM BLACK/CAELUM BLACK 4.png",
+      "Images/Nfortec/Cases/CAELUM/CAELUM BLACK/CAELUM BLACK 5.png"
+    ]
+  },
+  "NF-CS-CAELUM-WHITE": {
+    "folder": "Images/Nfortec/Cases/CAELUM/CAELUM WHITE",
+    "images": [
+      "Images/Nfortec/Cases/CAELUM/CAELUM WHITE/CAELUM BLACK 2.png",
+      "Images/Nfortec/Cases/CAELUM/CAELUM WHITE/CAELUM BLACK 3.png",
+      "Images/Nfortec/Cases/CAELUM/CAELUM WHITE/CAELUM BLACK 4.png",
+      "Images/Nfortec/Cases/CAELUM/CAELUM WHITE/CAELUM BLACK 5.png",
+      "Images/Nfortec/Cases/CAELUM/CAELUM WHITE/CAELUM white 1.png"
+    ]
+  },
+  "NF-CS-DYS-B": {
+    "folder": "Images/Nfortec/Cases/DYS/DYS BLACK",
+    "images": [
+      "Images/Nfortec/Cases/DYS/DYS BLACK/DYS BLACK 1.png",
+      "Images/Nfortec/Cases/DYS/DYS BLACK/DYS BLACK 2.png",
+      "Images/Nfortec/Cases/DYS/DYS BLACK/DYS BLACK 3.png",
+      "Images/Nfortec/Cases/DYS/DYS BLACK/DYS BLACK 4.png",
+      "Images/Nfortec/Cases/DYS/DYS BLACK/DYS BLACK 5.png",
+      "Images/Nfortec/Cases/DYS/DYS BLACK/DYS BLACK 6.png"
+    ]
+  },
+  "NF-CS-DYS-W": {
+    "folder": "Images/Nfortec/Cases/DYS/DYS WHITE",
+    "images": [
+      "Images/Nfortec/Cases/DYS/DYS WHITE/DYS WHITE 1.png",
+      "Images/Nfortec/Cases/DYS/DYS WHITE/DYS WHITE 2.png",
+      "Images/Nfortec/Cases/DYS/DYS WHITE/DYS WHITE 3.png",
+      "Images/Nfortec/Cases/DYS/DYS WHITE/DYS WHITE 4.png",
+      "Images/Nfortec/Cases/DYS/DYS WHITE/DYS WHITE 5.png"
+    ]
+  },
+  "NF-CS-KRATERX-B": {
+    "folder": "Images/Nfortec/Cases/KRATER X/BLACK",
+    "images": [
+      "Images/Nfortec/Cases/KRATER X/BLACK/KRATER X 1.png",
+      "Images/Nfortec/Cases/KRATER X/BLACK/KRATER X 2.png",
+      "Images/Nfortec/Cases/KRATER X/BLACK/KRATER X 3.png",
+      "Images/Nfortec/Cases/KRATER X/BLACK/KRATER X 4.png",
+      "Images/Nfortec/Cases/KRATER X/BLACK/KRATER X 5.png"
+    ]
+  },
+  "NF-CS-KRATERX-W": {
+    "folder": "Images/Nfortec/Cases/KRATER X/WHITE",
+    "images": [
+      "Images/Nfortec/Cases/KRATER X/WHITE/KRATER X WHITE 1.png",
+      "Images/Nfortec/Cases/KRATER X/WHITE/KRATER X WHITE 2.png",
+      "Images/Nfortec/Cases/KRATER X/WHITE/KRATER X WHITE 3.png",
+      "Images/Nfortec/Cases/KRATER X/WHITE/KRATER X WHITE 4.png",
+      "Images/Nfortec/Cases/KRATER X/WHITE/KRATER X WHITE 5.png",
+      "Images/Nfortec/Cases/KRATER X/WHITE/KRATER X WHITE 6.png"
+    ]
+  },
+  "NF-CS-NERVIA-B": {
+    "folder": "Images/Nfortec/Cases/NERVIA/BLACK",
+    "images": [
+      "Images/Nfortec/Cases/NERVIA/BLACK/NERVIA BLACK 1.png",
+      "Images/Nfortec/Cases/NERVIA/BLACK/NERVIA BLACK 2.png",
+      "Images/Nfortec/Cases/NERVIA/BLACK/NERVIA BLACK 3.png",
+      "Images/Nfortec/Cases/NERVIA/BLACK/NERVIA BLACK 4.png",
+      "Images/Nfortec/Cases/NERVIA/BLACK/NERVIA BLACK 5.png"
+    ]
+  },
+  "NF-CS-NERVIA-W": {
+    "folder": "Images/Nfortec/Cases/NERVIA/WHITE",
+    "images": [
+      "Images/Nfortec/Cases/NERVIA/WHITE/NERVIA WHITE 1.png",
+      "Images/Nfortec/Cases/NERVIA/WHITE/NERVIA WHITE 2.png",
+      "Images/Nfortec/Cases/NERVIA/WHITE/NERVIA WHITE 3.png",
+      "Images/Nfortec/Cases/NERVIA/WHITE/NERVIA WHITE 4.png",
+      "Images/Nfortec/Cases/NERVIA/WHITE/NERVIA WHITE 5.png",
+      "Images/Nfortec/Cases/NERVIA/WHITE/NERVIA WHITE 6.png",
+      "Images/Nfortec/Cases/NERVIA/WHITE/NERVIA WHITE 7.png",
+      "Images/Nfortec/Cases/NERVIA/WHITE/NERVIA WHITE 8.png"
+    ]
+  },
+  "NF-CS-PULSAR-B": {
+    "folder": "Images/Nfortec/Cases/PULSAR/BLACK",
+    "images": [
+      "Images/Nfortec/Cases/PULSAR/BLACK/PULSAR BLACK 1.png",
+      "Images/Nfortec/Cases/PULSAR/BLACK/PULSAR BLACK 2.png",
+      "Images/Nfortec/Cases/PULSAR/BLACK/PULSAR BLACK 3.png",
+      "Images/Nfortec/Cases/PULSAR/BLACK/PULSAR BLACK 4.png"
+    ]
+  },
+  "NF-CS-PULSAR-W": {
+    "folder": "Images/Nfortec/Cases/PULSAR/WHITE",
+    "images": [
+      "Images/Nfortec/Cases/PULSAR/WHITE/PULSAR WHITE 1.png",
+      "Images/Nfortec/Cases/PULSAR/WHITE/PULSAR WHITE 2.png",
+      "Images/Nfortec/Cases/PULSAR/WHITE/PULSAR WHITE 3.png",
+      "Images/Nfortec/Cases/PULSAR/WHITE/PULSAR WHITE 4.png"
+    ]
+  },
+  "NF-CS-URSA-B": {
+    "folder": "Images/Nfortec/Cases/URSA/BLACK",
+    "images": [
+      "Images/Nfortec/Cases/URSA/BLACK/URSA BLACK 1.png",
+      "Images/Nfortec/Cases/URSA/BLACK/URSA BLACK 2.png",
+      "Images/Nfortec/Cases/URSA/BLACK/URSA BLACK 3.png",
+      "Images/Nfortec/Cases/URSA/BLACK/URSA BLACK 4.png"
+    ]
+  },
+  "NF-CS-URSA-W": {
+    "folder": "Images/Nfortec/Cases/URSA/WHITE",
+    "images": [
+      "Images/Nfortec/Cases/URSA/WHITE/URSA WHITE 1.png",
+      "Images/Nfortec/Cases/URSA/WHITE/URSA WHITE 2.png",
+      "Images/Nfortec/Cases/URSA/WHITE/URSA WHITE 3.png"
+    ]
+  },
+  "NF-FAN-PULSAR-B": {
+    "folder": "Images/Nfortec/Ventilation/PULSAR FAN/BLACK",
+    "images": [
+      "Images/Nfortec/Ventilation/PULSAR FAN/BLACK/PULSAR FAN BLACK 1.png",
+      "Images/Nfortec/Ventilation/PULSAR FAN/BLACK/PULSAR FAN BLACK 2.png",
+      "Images/Nfortec/Ventilation/PULSAR FAN/BLACK/PULSAR FAN BLACK 3.png",
+      "Images/Nfortec/Ventilation/PULSAR FAN/BLACK/PULSAR FAN BLACK 4.png",
+      "Images/Nfortec/Ventilation/PULSAR FAN/BLACK/PULSAR FAN BLACK 5.png"
+    ]
+  },
+  "NF-FAN-PULSAR-W": {
+    "folder": "Images/Nfortec/Ventilation/PULSAR FAN/WHITE",
+    "images": [
+      "Images/Nfortec/Ventilation/PULSAR FAN/WHITE/PULSAR FAN WHITE 1.png",
+      "Images/Nfortec/Ventilation/PULSAR FAN/WHITE/PULSAR FAN WHITE 2.png",
+      "Images/Nfortec/Ventilation/PULSAR FAN/WHITE/PULSAR FAN WHITE 3.png",
+      "Images/Nfortec/Ventilation/PULSAR FAN/WHITE/PULSAR FAN WHITE 4.png",
+      "Images/Nfortec/Ventilation/PULSAR FAN/WHITE/PULSAR FAN WHITE 5.png"
+    ]
+  },
+  "NF-FAN-PULSAR-BR": {
+    "folder": "Images/Nfortec/Ventilation/PULSAR FAN REVERSE/BLACK",
+    "images": [
+      "Images/Nfortec/Ventilation/PULSAR FAN REVERSE/BLACK/PULSAR FAN REVERSE BLACK 1.png",
+      "Images/Nfortec/Ventilation/PULSAR FAN REVERSE/BLACK/PULSAR FAN REVERSE BLACK 2.png",
+      "Images/Nfortec/Ventilation/PULSAR FAN REVERSE/BLACK/PULSAR FAN REVERSE BLACK 3.png",
+      "Images/Nfortec/Ventilation/PULSAR FAN REVERSE/BLACK/PULSAR FAN REVERSE BLACK 4.png",
+      "Images/Nfortec/Ventilation/PULSAR FAN REVERSE/BLACK/PULSAR FAN REVERSE BLACK 5.png"
+    ]
+  },
+  "NF-FAN-PULSAR-WR": {
+    "folder": "Images/Nfortec/Ventilation/PULSAR FAN REVERSE/WHITE",
+    "images": [
+      "Images/Nfortec/Ventilation/PULSAR FAN REVERSE/WHITE/PULSAR FAN REVERSE WHITE 1.png",
+      "Images/Nfortec/Ventilation/PULSAR FAN REVERSE/WHITE/PULSAR FAN REVERSE WHITE 2.png",
+      "Images/Nfortec/Ventilation/PULSAR FAN REVERSE/WHITE/PULSAR FAN REVERSE WHITE 3.png",
+      "Images/Nfortec/Ventilation/PULSAR FAN REVERSE/WHITE/PULSAR FAN REVERSE WHITE 4.png",
+      "Images/Nfortec/Ventilation/PULSAR FAN REVERSE/WHITE/PULSAR FAN REVERSE WHITE 5.png"
+    ]
+  },
+  "NF-FAN-URSA-B": {
+    "folder": "Images/Nfortec/Ventilation/URSA FAN/BLACK",
+    "images": [
+      "Images/Nfortec/Ventilation/URSA FAN/BLACK/1.png",
+      "Images/Nfortec/Ventilation/URSA FAN/BLACK/2.png",
+      "Images/Nfortec/Ventilation/URSA FAN/BLACK/3.png",
+      "Images/Nfortec/Ventilation/URSA FAN/BLACK/4.png",
+      "Images/Nfortec/Ventilation/URSA FAN/BLACK/5.png"
+    ]
+  },
+  "NF-FAN-URSA-W": {
+    "folder": "Images/Nfortec/Ventilation/URSA FAN/WHITE",
+    "images": [
+      "Images/Nfortec/Ventilation/URSA FAN/WHITE/1.png",
+      "Images/Nfortec/Ventilation/URSA FAN/WHITE/2.png",
+      "Images/Nfortec/Ventilation/URSA FAN/WHITE/3.png",
+      "Images/Nfortec/Ventilation/URSA FAN/WHITE/4.png",
+      "Images/Nfortec/Ventilation/URSA FAN/WHITE/5.png"
+    ]
+  },
+  "NF-FAN-URSA-BR": {
+    "folder": "Images/Nfortec/Ventilation/URSA FAN REVERSE/BLACK",
+    "images": [
+      "Images/Nfortec/Ventilation/URSA FAN REVERSE/BLACK/URSA FAN REVERSE BLACK 1.png",
+      "Images/Nfortec/Ventilation/URSA FAN REVERSE/BLACK/URSA FAN REVERSE BLACK 2.png",
+      "Images/Nfortec/Ventilation/URSA FAN REVERSE/BLACK/URSA FAN REVERSE BLACK 3.png"
+    ]
+  },
+  "NF-FAN-URSA-WR": {
+    "folder": "Images/Nfortec/Ventilation/URSA FAN REVERSE/WHITE",
+    "images": [
+      "Images/Nfortec/Ventilation/URSA FAN REVERSE/WHITE/URSA FAN REVERSE WHITE 1.png",
+      "Images/Nfortec/Ventilation/URSA FAN REVERSE/WHITE/URSA FAN REVERSE WHITE 2.png",
+      "Images/Nfortec/Ventilation/URSA FAN REVERSE/WHITE/URSA FAN REVERSE WHITE 3.png"
+    ]
   }
 }
