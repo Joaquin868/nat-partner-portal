@@ -101,8 +101,8 @@
     ],
     "PYROS PRO": [
       "Images/Photography/Newskill/PYROS PRO/BLACK/PYROS PRO 1.jpg",
-      "Images/Photography/Newskill/PYROS PRO/BLACK/PYROS PRO 2.png",
-      "Images/Photography/Newskill/PYROS PRO/BLACK/PYROS PRO 3.png",
+      "Images/Photography/Newskill/PYROS PRO/BLACK/PYROS PRO 2.jpg",
+      "Images/Photography/Newskill/PYROS PRO/BLACK/PYROS PRO 3.jpg",
       "Images/Photography/Newskill/PYROS PRO/BLACK/PYROS PRO 4.JPG",
       "Images/Photography/Newskill/PYROS PRO/BLACK/PYROS PRO 5.jpg",
       "Images/Photography/Newskill/PYROS PRO/IVORY/PYROS PRO IVORY 1.jpg"
@@ -142,11 +142,114 @@
     ]
   },
   "Nfortec": {
+    "ATRIAX": [
+      "Images/Photography/Nfortec/ATRIAX/ATRIAX 240/ATRIAX 240 1.jpg",
+      "Images/Photography/Nfortec/ATRIAX/ATRIAX 240/ATRIAX 240 2.jpg",
+      "Images/Photography/Nfortec/ATRIAX/ATRIAX 240/ATRIAX 240 3.jpg",
+      "Images/Photography/Nfortec/ATRIAX/ATRIAX 240/ATRIAX 240 4.jpg",
+      "Images/Photography/Nfortec/ATRIAX/ATRIAX 240/ATRIAX 240 5.jpg",
+      "Images/Photography/Nfortec/ATRIAX/ATRIAX 240/ATRIAX 240 6.jpg",
+      "Images/Photography/Nfortec/ATRIAX/ATRIAX 360/ATRIAX 360 1.jpg",
+      "Images/Photography/Nfortec/ATRIAX/ATRIAX 360/ATRIAX 360 2.jpg",
+      "Images/Photography/Nfortec/ATRIAX/ATRIAX 360/ATRIAX 360 3.jpg",
+      "Images/Photography/Nfortec/ATRIAX/ATRIAX 360/ATRIAX 360 4.jpg",
+      "Images/Photography/Nfortec/ATRIAX/ATRIAX 360/ATRIAX 360 5.jpg",
+      "Images/Photography/Nfortec/ATRIAX/ATRIAX 360/ATRIAX 360 6.jpg"
+    ],
+    "CAELUM": [
+      "Images/Photography/Nfortec/CAELUM/BLACK/CAELUM BLACK 1.jpg",
+      "Images/Photography/Nfortec/CAELUM/BLACK/CAELUM BLACK 2.jpg",
+      "Images/Photography/Nfortec/CAELUM/BLACK/CAELUM BLACK 3.png",
+      "Images/Photography/Nfortec/CAELUM/WHITE/CAELUM WHITE 1.jpg",
+      "Images/Photography/Nfortec/CAELUM/WHITE/CAELUM WHITE 2.jpg",
+      "Images/Photography/Nfortec/CAELUM/WHITE/CAELUM WHITE 3.jpg"
+    ],
+    "CENTAURUS X": [
+      "Images/Photography/Nfortec/CENTAURUS X/BLACK/CENTAURUS X BLACK 1.jpg",
+      "Images/Photography/Nfortec/CENTAURUS X/BLACK/CENTAURUS X BLACK 2.png",
+      "Images/Photography/Nfortec/CENTAURUS X/BLACK/CENTAURUS X BLACK 3.jpg",
+      "Images/Photography/Nfortec/CENTAURUS X/BLACK/CENTAURUS X BLACK 4.png",
+      "Images/Photography/Nfortec/CENTAURUS X/BLACK/CENTAURUS X BLACK 5.jpg",
+      "Images/Photography/Nfortec/CENTAURUS X/WHITE/CENTAURUS X BLACK 1.jpg",
+      "Images/Photography/Nfortec/CENTAURUS X/WHITE/CENTAURUS X BLACK 2.jpg",
+      "Images/Photography/Nfortec/CENTAURUS X/WHITE/CENTAURUS X BLACK 3.jpg",
+      "Images/Photography/Nfortec/CENTAURUS X/WHITE/CENTAURUS X BLACK 4.jpg"
+    ],
+    "DYS": [
+      "Images/Photography/Nfortec/DYS/DYS 1.jpg",
+      "Images/Photography/Nfortec/DYS/DYS 2.jpg",
+      "Images/Photography/Nfortec/DYS/DYS 3.jpg",
+      "Images/Photography/Nfortec/DYS/DYS 4.jpg",
+      "Images/Photography/Nfortec/DYS/DYS 5.jpg"
+    ],
+    "HYDRUS V2": [
+      "Images/Photography/Nfortec/HYDRUS V2/HYDRUS V2 1.jpg",
+      "Images/Photography/Nfortec/HYDRUS V2/HYDRUS V2 2.jpg",
+      "Images/Photography/Nfortec/HYDRUS V2/HYDRUS V2 3.jpg"
+    ],
+    "KRATER X": [
+      "Images/Photography/Nfortec/KRATER X/BLACK/KRATER X BLACK 1.JPG",
+      "Images/Photography/Nfortec/KRATER X/BLACK/KRATER X BLACK 2.JPG",
+      "Images/Photography/Nfortec/KRATER X/BLACK/KRATER X BLACK 3.jpg",
+      "Images/Photography/Nfortec/KRATER X/BLACK/KRATER X BLACK 4.jpg",
+      "Images/Photography/Nfortec/KRATER X/BLACK/KRATER X BLACK 5.jpg",
+      "Images/Photography/Nfortec/KRATER X/WHITE/KRATER X BLACK 7.jpg",
+      "Images/Photography/Nfortec/KRATER X/WHITE/KRATER X WHITE 1.JPG",
+      "Images/Photography/Nfortec/KRATER X/WHITE/KRATER X WHITE 2.jpg",
+      "Images/Photography/Nfortec/KRATER X/WHITE/KRATER X WHITE 3.JPG",
+      "Images/Photography/Nfortec/KRATER X/WHITE/KRATER X WHITE 4.jpg",
+      "Images/Photography/Nfortec/KRATER X/WHITE/KRATER X WHITE 5.jpg",
+      "Images/Photography/Nfortec/KRATER X/WHITE/KRATER X WHITE 6.jpg"
+    ],
+    "PULSAR": [
+      "Images/Photography/Nfortec/PULSAR/BLACK/PULSAR BLACK 1.jpg",
+      "Images/Photography/Nfortec/PULSAR/WHITE/PULSAR WHITE 1.jpg",
+      "Images/Photography/Nfortec/PULSAR/WHITE/PULSAR WHITE 2.jpg",
+      "Images/Photography/Nfortec/PULSAR/WHITE/PULSAR WHITE 3.jpg",
+      "Images/Photography/Nfortec/PULSAR/WHITE/PULSAR WHITE 4.jpg",
+      "Images/Photography/Nfortec/PULSAR/WHITE/PULSAR WHITE 5.jpg"
+    ],
     "SAGITTA X": [
       "Images/Photography/Nfortec/SAGITTA X/SAGITTA X 1.jpg",
       "Images/Photography/Nfortec/SAGITTA X/SAGITTA X 2.jpg",
       "Images/Photography/Nfortec/SAGITTA X/SAGITTA X 3.jpg",
-      "Images/Photography/Nfortec/SAGITTA X/SAGITTA X 4.jpg"
+      "Images/Photography/Nfortec/SAGITTA X/SAGITTA X 4.jpg",
+      "Images/Photography/Nfortec/SAGITTA X/SAGITTA X 5.png"
+    ],
+    "SAGITTA X2": [
+      "Images/Photography/Nfortec/SAGITTA X2/SAGITTA X2 1.jpg",
+      "Images/Photography/Nfortec/SAGITTA X2/SAGITTA X2 2.jpg",
+      "Images/Photography/Nfortec/SAGITTA X2/SAGITTA X2 3.jpg",
+      "Images/Photography/Nfortec/SAGITTA X2/SAGITTA X2 4.jpg",
+      "Images/Photography/Nfortec/SAGITTA X2/SAGITTA X2 5 (1).jpg"
+    ],
+    "SCULPTOR X2": [
+      "Images/Photography/Nfortec/SCULPTOR X2/SCULPTOR X2 1.JPG",
+      "Images/Photography/Nfortec/SCULPTOR X2/SCULPTOR X2 2.JPG"
+    ],
+    "SCUTUM X": [
+      "Images/Photography/Nfortec/SCUTUM X/SCUTUM X 1.jpg",
+      "Images/Photography/Nfortec/SCUTUM X/SCUTUM X 2.jpg",
+      "Images/Photography/Nfortec/SCUTUM X/SCUTUM X 3.jpg",
+      "Images/Photography/Nfortec/SCUTUM X/SCUTUM X 4.jpg",
+      "Images/Photography/Nfortec/SCUTUM X/SCUTUM X 5.jpg"
+    ],
+    "SEDNA": [
+      "Images/Photography/Nfortec/SEDNA/SEDNA 1.webp",
+      "Images/Photography/Nfortec/SEDNA/SEDNA 2.webp",
+      "Images/Photography/Nfortec/SEDNA/SEDNA 3.webp",
+      "Images/Photography/Nfortec/SEDNA/SEDNA 4.webp"
+    ],
+    "URSA": [
+      "Images/Photography/Nfortec/URSA/BLACK/URSA BLACK 1.jpg",
+      "Images/Photography/Nfortec/URSA/BLACK/URSA BLACK 2.JPG",
+      "Images/Photography/Nfortec/URSA/BLACK/URSA BLACK 3.JPG",
+      "Images/Photography/Nfortec/URSA/WHITE/URSA WHITE 1.JPG",
+      "Images/Photography/Nfortec/URSA/WHITE/URSA WHITE 2.JPG",
+      "Images/Photography/Nfortec/URSA/WHITE/URSA WHITE 3.JPG",
+      "Images/Photography/Nfortec/URSA/WHITE/URSA WHITE 4.JPG",
+      "Images/Photography/Nfortec/URSA/WHITE/URSA WHITE 5.JPG",
+      "Images/Photography/Nfortec/URSA/WHITE/URSA WHITE 6.JPG"
     ]
   }
 }
