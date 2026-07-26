@@ -8,7 +8,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css">
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
-body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#f5f5f3;color:#1a1a1a;font-size:14px}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#eef2f7;color:#1a1a1a;font-size:14px}
 .hdr{background:#1a1a1a;color:#fff;padding:.875rem 2rem;display:flex;align-items:center;justify-content:space-between;gap:1rem}
 .hdr-left{display:flex;align-items:center;gap:12px}
 .hdr-title{font-size:15px;font-weight:500}.hdr-sub{font-size:12px;color:#999;margin-top:1px}
@@ -20,8 +20,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 .legend-item{display:flex;align-items:center;gap:5px;font-size:12px;color:#666}
 .brand-tabs{display:flex;gap:8px;margin-bottom:1.25rem;flex-wrap:wrap}
 .tab{padding:7px 18px;border-radius:8px;border:1px solid #ddd;font-size:13px;font-weight:500;cursor:pointer;background:#fff;color:#666;transition:all .15s;display:flex;align-items:center;gap:8px}
-.tab.ns.active{background:#E8312A;color:#fff;border-color:#E8312A}
-.tab.nf.active{background:#1a1a1a;color:#fff;border-color:#1a1a1a}
+.tab.ns.active{background:#1CA3E2;color:#fff;border-color:#1CA3E2}
+.tab.nf.active{background:#111111;color:#fff;border-color:#111111}
 .tab.ba.active{background:#2563eb;color:#fff;border-color:#2563eb}
 .tab.ph.active{background:#7c3aed;color:#fff;border-color:#7c3aed}
 .tab:hover:not(.active){background:#f5f5f3;color:#1a1a1a;border-color:#bbb}
@@ -34,6 +34,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 .cat-hdr:hover{background:#fafafa}
 .cat-title{font-size:13px;font-weight:500;display:flex;align-items:center;gap:8px}
 .cat-title i{font-size:15px;color:#E8312A}
+#brand-ns .cat-title i{color:#1CA3E2}
+#brand-nf .cat-title i{color:#111111}
 .cnt{font-size:11px;font-weight:400;color:#bbb;margin-left:2px}
 .tog-icon{font-size:14px;color:#bbb;transition:transform .2s}
 .cat-hdr.open .tog-icon{transform:rotate(180deg)}
@@ -71,6 +73,8 @@ tr:hover td{background:#fafafa}
 .logos-brand{background:#fff;border:0.5px solid #e0e0e0;border-radius:10px;margin-bottom:10px;overflow:hidden}
 .logos-brand-hdr{padding:.7rem 1rem;font-size:13px;font-weight:500;border-bottom:0.5px solid #f0f0f0;display:flex;align-items:center;gap:8px}
 .logos-brand-hdr i{color:#E8312A;font-size:15px}
+.logos-brand-hdr i.ti-device-gamepad-2{color:#1CA3E2}
+.logos-brand-hdr i.ti-cpu{color:#111111}
 .logos-previews{padding:1rem;display:flex;gap:12px;flex-wrap:wrap;border-bottom:0.5px solid #f0f0f0;background:#fafafa}
 .logo-prev{height:36px;width:auto;object-fit:contain;border-radius:6px;padding:6px 10px;border:0.5px solid #e0e0e0;background:#fff}
 .logo-prev.nf{background:#1a1a1a;border-color:#333}
