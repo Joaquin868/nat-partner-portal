@@ -942,5 +942,66 @@
       "Images/Nfortec/Ventilation/URSA FAN REVERSE/WHITE/URSA FAN REVERSE WHITE 2.png",
       "Images/Nfortec/Ventilation/URSA FAN REVERSE/WHITE/URSA FAN REVERSE WHITE 3.png"
     ]
+  },
+  "NF-EVO-SPARK-R5161T30W": {
+    "folder": "Images/Nfortec/Gaming PCs/SPARK/WHITE",
+    "images": [
+      "Images/Nfortec/Gaming PCs/SPARK/WHITE/EVO SPARK 1.png",
+      "Images/Nfortec/Gaming PCs/SPARK/WHITE/EVO SPARK 2.png",
+      "Images/Nfortec/Gaming PCs/SPARK/WHITE/EVO SPARK 3.png",
+      "Images/Nfortec/Gaming PCs/SPARK/WHITE/EVO SPARK 4.png",
+      "Images/Nfortec/Gaming PCs/SPARK/WHITE/EVO SPARK 5.png",
+      "Images/Nfortec/Gaming PCs/SPARK/WHITE/EVO SPARK 6.png",
+      "Images/Nfortec/Gaming PCs/SPARK/WHITE/EVO SPARK 7.jpg"
+    ]
+  },
+  "NF-EVO-RIVAL-I5161T50B": {
+    "folder": "Images/Nfortec/Gaming PCs/RIVAL/BLACK",
+    "images": [
+      "Images/Nfortec/Gaming PCs/RIVAL/BLACK/EVO RIVAL 1.png",
+      "Images/Nfortec/Gaming PCs/RIVAL/BLACK/EVO RIVAL 2.png",
+      "Images/Nfortec/Gaming PCs/RIVAL/BLACK/EVO RIVAL 3.png",
+      "Images/Nfortec/Gaming PCs/RIVAL/BLACK/EVO RIVAL 4.png",
+      "Images/Nfortec/Gaming PCs/RIVAL/BLACK/EVO RIVAL 5.jpg"
+    ]
+  },
+  "NF-EVO-PRIME-R7321T50B": {
+    "folder": "Images/Nfortec/Gaming PCs/PRIME/BLACK",
+    "images": [
+      "Images/Nfortec/Gaming PCs/PRIME/BLACK/EVO PRIME 1.png",
+      "Images/Nfortec/Gaming PCs/PRIME/BLACK/EVO PRIME 2.png",
+      "Images/Nfortec/Gaming PCs/PRIME/BLACK/EVO PRIME 3.png",
+      "Images/Nfortec/Gaming PCs/PRIME/BLACK/EVO PRIME 4.png",
+      "Images/Nfortec/Gaming PCs/PRIME/BLACK/EVO PRIME 5.png",
+      "Images/Nfortec/Gaming PCs/PRIME/BLACK/EVO PRIME 6.jpg",
+      "Images/Nfortec/Gaming PCs/PRIME/BLACK/EVO PRIME 7.jpg"
+    ]
+  },
+  "NF-EVO-LEGEND-R7322T50B": {
+    "folder": "Images/Nfortec/Gaming PCs/LEGEND/BLACK",
+    "images": [
+      "Images/Nfortec/Gaming PCs/LEGEND/BLACK/EVO LEGEND 1.png",
+      "Images/Nfortec/Gaming PCs/LEGEND/BLACK/EVO LEGEND 2.png",
+      "Images/Nfortec/Gaming PCs/LEGEND/BLACK/EVO LEGEND 3.png",
+      "Images/Nfortec/Gaming PCs/LEGEND/BLACK/EVO LEGEND 4.png",
+      "Images/Nfortec/Gaming PCs/LEGEND/BLACK/EVO LEGEND 5.png",
+      "Images/Nfortec/Gaming PCs/LEGEND/BLACK/EVO LEGEND 6.png",
+      "Images/Nfortec/Gaming PCs/LEGEND/BLACK/EVO LEGEND 7.jpg",
+      "Images/Nfortec/Gaming PCs/LEGEND/BLACK/EVO LEGEND 8.jpg"
+    ]
+  },
+  "NF-EVO-APEX-R7322T50TIB": {
+    "folder": "Images/Nfortec/Gaming PCs/APEX/BLACK",
+    "images": [
+      "Images/Nfortec/Gaming PCs/APEX/BLACK/EVO APEX 1.png",
+      "Images/Nfortec/Gaming PCs/APEX/BLACK/EVO APEX 2.png",
+      "Images/Nfortec/Gaming PCs/APEX/BLACK/EVO APEX 3.png",
+      "Images/Nfortec/Gaming PCs/APEX/BLACK/EVO APEX 4.png",
+      "Images/Nfortec/Gaming PCs/APEX/BLACK/EVO APEX 5.png",
+      "Images/Nfortec/Gaming PCs/APEX/BLACK/EVO APEX 6.png",
+      "Images/Nfortec/Gaming PCs/APEX/BLACK/EVO APEX 7.jpg",
+      "Images/Nfortec/Gaming PCs/APEX/BLACK/EVO APEX 8.jpg",
+      "Images/Nfortec/Gaming PCs/APEX/BLACK/EVO APEX 9.jpg"
+    ]
   }
 }

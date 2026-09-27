@@ -91,5 +91,10 @@
   "NF-FAN-URSA-B": "Nfortec/Ventilation/URSA FAN/BLACK",
   "NF-FAN-URSA-W": "Nfortec/Ventilation/URSA FAN/WHITE",
   "NF-FAN-URSA-BR": "Nfortec/Ventilation/URSA FAN REVERSE/BLACK",
-  "NF-FAN-URSA-WR": "Nfortec/Ventilation/URSA FAN REVERSE/WHITE"
+  "NF-FAN-URSA-WR": "Nfortec/Ventilation/URSA FAN REVERSE/WHITE",
+  "NF-EVO-SPARK-R5161T30W": "Nfortec/Gaming PCs/SPARK/WHITE",
+  "NF-EVO-RIVAL-I5161T50B": "Nfortec/Gaming PCs/RIVAL/BLACK",
+  "NF-EVO-PRIME-R7321T50B": "Nfortec/Gaming PCs/PRIME/BLACK",
+  "NF-EVO-LEGEND-R7322T50B": "Nfortec/Gaming PCs/LEGEND/BLACK",
+  "NF-EVO-APEX-R7322T50TIB": "Nfortec/Gaming PCs/APEX/BLACK"
 }
