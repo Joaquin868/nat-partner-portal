@@ -302,12 +302,31 @@ Newskill\Microphones\KALIOPE\WHITE\KALIOPE WHITE 1.png
 Newskill\Microphones\KALIOPE\WHITE\KALIOPE WHITE 2.png
 Newskill\Microphones\KALIOPE\WHITE\KALIOPE WHITE 3.png
 Newskill\Microphones\KALIOPE\WHITE\KALIOPE WHITE 4.png
-Newskill\Mouse Pads\ARTEMIS L\BLUE\ARTEMIS L BLUE 1.jpg
-Newskill\Mouse Pads\ARTEMIS L\BLUE\ARTEMIS L BLUE 2.jpg
-Newskill\Mouse Pads\ARTEMIS XL\BLUE\ARTEMIS XL BLUE 1.jpg
-Newskill\Mouse Pads\ARTEMIS XL\BLUE\ARTEMIS XL BLUE 2.jpg
-Newskill\Mouse Pads\ARTEMIS XXL\BLUE\ARTEMIS XXL BLUE 1.jpg
-Newskill\Mouse Pads\ARTEMIS XXL\WHITE\ARTEMIS XXL WHITE 1.jpg
+Newskill\Mouse Pads\ARTEMIS L\BLACK L\ARTEMIS L BLACK 1.jpg
+Newskill\Mouse Pads\ARTEMIS L\BLACK L\ARTEMIS L BLACK 2.png
+Newskill\Mouse Pads\ARTEMIS L\BLUE L\ARTEMIS L BLUE 1.jpg
+Newskill\Mouse Pads\ARTEMIS L\BLUE L\ARTEMIS L BLUE 2.png
+Newskill\Mouse Pads\ARTEMIS L\BLUE L\ARTEMIS L BLUE 3.jpg
+Newskill\Mouse Pads\ARTEMIS L\PURPLE L\ARTEMIS L PURPLE 1.jpg
+Newskill\Mouse Pads\ARTEMIS L\PURPLE L\ARTEMIS L PURPLE 2.png
+Newskill\Mouse Pads\ARTEMIS L\WHITE L\ARTEMIS L WHITE 1.jpg
+Newskill\Mouse Pads\ARTEMIS L\WHITE L\ARTEMIS L WHITE 2.png
+Newskill\Mouse Pads\ARTEMIS XL\BLACK XL\ARTEMIS XL BLACK 1.png
+Newskill\Mouse Pads\ARTEMIS XL\BLACK XL\ARTEMIS XL BLACK 2.png
+Newskill\Mouse Pads\ARTEMIS XL\BLUE XL\ARTEMIS XL BLUE 1.jpg
+Newskill\Mouse Pads\ARTEMIS XL\BLUE XL\ARTEMIS XL BLUE 2.png
+Newskill\Mouse Pads\ARTEMIS XL\PURPLE XL\ARTEMIS XL PURPLE 1.png
+Newskill\Mouse Pads\ARTEMIS XL\PURPLE XL\ARTEMIS XL PURPLE 2.png
+Newskill\Mouse Pads\ARTEMIS XL\WHITE XL\ARTEMIS XL WHITE 1.png
+Newskill\Mouse Pads\ARTEMIS XL\WHITE XL\ARTEMIS XL WHITE 2.png
+Newskill\Mouse Pads\ARTEMIS XXL\BLACK XXL\ARTEMIS XXL BLACK 1.jpg
+Newskill\Mouse Pads\ARTEMIS XXL\BLACK XXL\ARTEMIS XXL BLACK 2.png
+Newskill\Mouse Pads\ARTEMIS XXL\BLUE XXL\ARTEMIS XXL BLUE 1.jpg
+Newskill\Mouse Pads\ARTEMIS XXL\BLUE XXL\ARTEMIS XXL BLUE 2.png
+Newskill\Mouse Pads\ARTEMIS XXL\PURPLE XXL\ARTEMIS XXL PURPLE 1.jpg
+Newskill\Mouse Pads\ARTEMIS XXL\PURPLE XXL\ARTEMIS XXL PURPLE 2.png
+Newskill\Mouse Pads\ARTEMIS XXL\WHITE XXL\ARTEMIS XXL WHITE 1.jpg
+Newskill\Mouse Pads\ARTEMIS XXL\WHITE XXL\ARTEMIS XXL WHITE 2.png
 Newskill\Mouse Pads\ATAMI CONTROL XL\ATAMI CONTROL XL 1.webp
 Newskill\Mouse Pads\ATAMI CONTROL XL\ATAMI CONTROL XL 2.webp
 Newskill\Mouse Pads\ATAMI CONTROL XL\ATAMI CONTROL XL 3.webp
@@ -554,7 +573,29 @@ Photography\Newskill\ARAKNE ELITE\ARAKNE ELITE 3.jpg
 Photography\Newskill\ARAKNE ELITE\ARAKNE ELITE 4.jpg
 Photography\Newskill\ARAKNE ELITE IVORY\ARAKNE IVORY 1.jpg
 Photography\Newskill\ARAKNE ELITE IVORY\ARAKNE IVORY 2.jpg
-Photography\Newskill\ARTEMIS\ARTEMIS 1.jpg
+Photography\Newskill\ARTEMIS\ARTEMIS L BLACK 1.jpg
+Photography\Newskill\ARTEMIS\ARTEMIS L BLACK 2.jpg
+Photography\Newskill\ARTEMIS\ARTEMIS L BLUE 1.jpg
+Photography\Newskill\ARTEMIS\ARTEMIS L BLUE 2.jpg
+Photography\Newskill\ARTEMIS\ARTEMIS L PURPLE  2.jpg
+Photography\Newskill\ARTEMIS\ARTEMIS L PURPLE 1.jpg
+Photography\Newskill\ARTEMIS\ARTEMIS L WHITE 1.jpg
+Photography\Newskill\ARTEMIS\ARTEMIS L WHITE 2.jpg
+Photography\Newskill\ARTEMIS\ARTEMIS XL BLACK 1.jpg
+Photography\Newskill\ARTEMIS\ARTEMIS XL BLACK 2.jpg
+Photography\Newskill\ARTEMIS\ARTEMIS XL BLUE 1.jpg
+Photography\Newskill\ARTEMIS\ARTEMIS XL BLUE 2.jpg
+Photography\Newskill\ARTEMIS\ARTEMIS XL PURPLE 1.jpg
+Photography\Newskill\ARTEMIS\ARTEMIS XL WHITE 1.jpg
+Photography\Newskill\ARTEMIS\ARTEMIS XL WHITE 2.jpg
+Photography\Newskill\ARTEMIS\ARTEMIS XXL BLACK 1.jpg
+Photography\Newskill\ARTEMIS\ARTEMIS XXL BLUE 1.jpg
+Photography\Newskill\ARTEMIS\ARTEMIS XXL BLUE 2.jpg
+Photography\Newskill\ARTEMIS\ARTEMIS XXL PURPLE 1.jpg
+Photography\Newskill\ARTEMIS\ARTEMIS XXL PURPLE 2.jpg
+Photography\Newskill\ARTEMIS\ARTEMIS XXL WHITE 1.jpg
+Photography\Newskill\ARTEMIS\ARTEMIS XXL WHITE 2.jpg
+Photography\Newskill\ARTEMIS\ARTEMIS.jpg
 Photography\Newskill\ATAMI CONTROL\ATAMI CONTROL 1.jpg
 Photography\Newskill\ATAMI CONTROL\ATAMI CONTROL 2.png
 Photography\Newskill\ATAMI SPEED\ATAMI SPEED 1.jpg

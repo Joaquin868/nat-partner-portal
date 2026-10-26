@@ -206,29 +206,32 @@
     ]
   },
   "NS-MP-ARTEMIS-BLU-L": {
-    "folder": "Images/Newskill/Mouse Pads/ARTEMIS L/BLUE",
+    "folder": "Images/Newskill/Mouse Pads/ARTEMIS L/BLUE L",
     "images": [
-      "Images/Newskill/Mouse Pads/ARTEMIS L/BLUE/ARTEMIS L BLUE 1.jpg",
-      "Images/Newskill/Mouse Pads/ARTEMIS L/BLUE/ARTEMIS L BLUE 2.jpg"
+      "Images/Newskill/Mouse Pads/ARTEMIS L/BLUE L/ARTEMIS L BLUE 1.jpg",
+      "Images/Newskill/Mouse Pads/ARTEMIS L/BLUE L/ARTEMIS L BLUE 2.png",
+      "Images/Newskill/Mouse Pads/ARTEMIS L/BLUE L/ARTEMIS L BLUE 3.jpg"
     ]
   },
   "NS-MP-ARTEMIS-BLU-XL": {
-    "folder": "Images/Newskill/Mouse Pads/ARTEMIS XL/BLUE",
+    "folder": "Images/Newskill/Mouse Pads/ARTEMIS XL/BLUE XL",
     "images": [
-      "Images/Newskill/Mouse Pads/ARTEMIS XL/BLUE/ARTEMIS XL BLUE 1.jpg",
-      "Images/Newskill/Mouse Pads/ARTEMIS XL/BLUE/ARTEMIS XL BLUE 2.jpg"
+      "Images/Newskill/Mouse Pads/ARTEMIS XL/BLUE XL/ARTEMIS XL BLUE 1.jpg",
+      "Images/Newskill/Mouse Pads/ARTEMIS XL/BLUE XL/ARTEMIS XL BLUE 2.png"
     ]
   },
   "NS-MP-ARTEMIS-BLU-XXL": {
-    "folder": "Images/Newskill/Mouse Pads/ARTEMIS XXL/BLUE",
+    "folder": "Images/Newskill/Mouse Pads/ARTEMIS XXL/BLUE XXL",
     "images": [
-      "Images/Newskill/Mouse Pads/ARTEMIS XXL/BLUE/ARTEMIS XXL BLUE 1.jpg"
+      "Images/Newskill/Mouse Pads/ARTEMIS XXL/BLUE XXL/ARTEMIS XXL BLUE 1.jpg",
+      "Images/Newskill/Mouse Pads/ARTEMIS XXL/BLUE XXL/ARTEMIS XXL BLUE 2.png"
     ]
   },
   "NS-MP-ARTEMIS-WH-XXL": {
-    "folder": "Images/Newskill/Mouse Pads/ARTEMIS XXL/WHITE",
+    "folder": "Images/Newskill/Mouse Pads/ARTEMIS XXL/WHITE XXL",
     "images": [
-      "Images/Newskill/Mouse Pads/ARTEMIS XXL/WHITE/ARTEMIS XXL WHITE 1.jpg"
+      "Images/Newskill/Mouse Pads/ARTEMIS XXL/WHITE XXL/ARTEMIS XXL WHITE 1.jpg",
+      "Images/Newskill/Mouse Pads/ARTEMIS XXL/WHITE XXL/ARTEMIS XXL WHITE 2.png"
     ]
   },
   "NS-MP-ATAMI-CXL": {
@@ -1002,6 +1005,48 @@
       "Images/Nfortec/Gaming PCs/APEX/BLACK/EVO APEX 7.jpg",
       "Images/Nfortec/Gaming PCs/APEX/BLACK/EVO APEX 8.jpg",
       "Images/Nfortec/Gaming PCs/APEX/BLACK/EVO APEX 9.jpg"
+    ]
+  },
+  "NS-MP-ARTEMIS-WH-L": {
+    "folder": "Images/Newskill/Mouse Pads/ARTEMIS L/WHITE L",
+    "images": [
+      "Images/Newskill/Mouse Pads/ARTEMIS L/WHITE L/ARTEMIS L WHITE 1.jpg",
+      "Images/Newskill/Mouse Pads/ARTEMIS L/WHITE L/ARTEMIS L WHITE 2.png"
+    ]
+  },
+  "NS-MP-ARTEMIS-PU-L": {
+    "folder": "Images/Newskill/Mouse Pads/ARTEMIS L/PURPLE L",
+    "images": [
+      "Images/Newskill/Mouse Pads/ARTEMIS L/PURPLE L/ARTEMIS L PURPLE 1.jpg",
+      "Images/Newskill/Mouse Pads/ARTEMIS L/PURPLE L/ARTEMIS L PURPLE 2.png"
+    ]
+  },
+  "NS-MP-ARTEMIS-BL-L": {
+    "folder": "Images/Newskill/Mouse Pads/ARTEMIS L/BLACK L",
+    "images": [
+      "Images/Newskill/Mouse Pads/ARTEMIS L/BLACK L/ARTEMIS L BLACK 1.jpg",
+      "Images/Newskill/Mouse Pads/ARTEMIS L/BLACK L/ARTEMIS L BLACK 2.png"
+    ]
+  },
+  "NS-MP-ARTEMIS-PU-XL": {
+    "folder": "Images/Newskill/Mouse Pads/ARTEMIS XL/PURPLE XL",
+    "images": [
+      "Images/Newskill/Mouse Pads/ARTEMIS XL/PURPLE XL/ARTEMIS XL PURPLE 1.png",
+      "Images/Newskill/Mouse Pads/ARTEMIS XL/PURPLE XL/ARTEMIS XL PURPLE 2.png"
+    ]
+  },
+  "NS-MP-ARTEMIS-PU-XXL": {
+    "folder": "Images/Newskill/Mouse Pads/ARTEMIS XXL/PURPLE XXL",
+    "images": [
+      "Images/Newskill/Mouse Pads/ARTEMIS XXL/PURPLE XXL/ARTEMIS XXL PURPLE 1.jpg",
+      "Images/Newskill/Mouse Pads/ARTEMIS XXL/PURPLE XXL/ARTEMIS XXL PURPLE 2.png"
+    ]
+  },
+  "NS-MP-ARTEMIS-BL-XXL": {
+    "folder": "Images/Newskill/Mouse Pads/ARTEMIS XXL/BLACK XXL",
+    "images": [
+      "Images/Newskill/Mouse Pads/ARTEMIS XXL/BLACK XXL/ARTEMIS XXL BLACK 1.jpg",
+      "Images/Newskill/Mouse Pads/ARTEMIS XXL/BLACK XXL/ARTEMIS XXL BLACK 2.png"
     ]
   }
 }
