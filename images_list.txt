@@ -293,6 +293,8 @@ Newskill\Mice\EOS\BLACK\EOS BLACK 5.png
 Newskill\Mice\EOS\WHITE\EOS WHITE 1.png
 Newskill\Mice\EOS\WHITE\EOS WHITE 2.png
 Newskill\Mice\EOS\WHITE\EOS WHITE 3.png
+Newskill\Mice\HABROK\HABROK 1.webp
+Newskill\Mice\HABROK\HABROK 2.png
 Newskill\Microphones\KALIOPE\BLACK\KALIOPE BLACK 1.png
 Newskill\Microphones\KALIOPE\BLACK\KALIOPE BLACK 2.png
 Newskill\Microphones\KALIOPE\BLACK\KALIOPE BLACK 3.png
@@ -632,6 +634,12 @@ Photography\Newskill\EOS\EOS 1.jpg
 Photography\Newskill\EOS\EOS 2.jpg
 Photography\Newskill\EOS\EOS 3.jpg
 Photography\Newskill\EOS\EOS 4.jpg
+Photography\Newskill\HABROK\HABROK 1.jpg
+Photography\Newskill\HABROK\HABROK 2.jpg
+Photography\Newskill\HABROK\HABROK 3.jpg
+Photography\Newskill\HABROK\HABROK 4.jpg
+Photography\Newskill\HABROK\HABROK 5.jpg
+Photography\Newskill\HABROK\HABROK 6.jpg
 Photography\Newskill\KALIOPE\KALIOPE 1.jpg
 Photography\Newskill\KALIOPE\KALIOPE 2.jpg
 Photography\Newskill\KALIOPE\KALIOPE 3.jpg
