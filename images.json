@@ -1048,5 +1048,12 @@
       "Images/Newskill/Mouse Pads/ARTEMIS XXL/BLACK XXL/ARTEMIS XXL BLACK 1.jpg",
       "Images/Newskill/Mouse Pads/ARTEMIS XXL/BLACK XXL/ARTEMIS XXL BLACK 2.png"
     ]
+  },
+  "NS-MS-HABROK": {
+    "folder": "Images/Newskill/Mice/HABROK",
+    "images": [
+      "Images/Newskill/Mice/HABROK/HABROK 1.webp",
+      "Images/Newskill/Mice/HABROK/HABROK 2.png"
+    ]
   }
 }
